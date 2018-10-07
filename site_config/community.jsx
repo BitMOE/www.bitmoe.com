@@ -249,17 +249,33 @@ export default {
       title: '公司纪事',
       list: [
         {
-          title: 'Dubbo and Dubbo Mesh',
+          title: '比特萌信息2017年度纳税总额较上年增长20倍计划完成',
           content: <span>Dubbo 及 Nacos是阿里巴巴大规模微服务生产实践中的经典组合，对比传统的如ZooKeeper等注册中心与配置中心解决方案，在使用云原生及Service Mesh范式构建微服务应用平台时，通过在Dubbo中使用Nacos，可以完全释放Dubbo在大规模微服务治理、流量管理、服务集成及共享上的所有威力。</span>,
           tags: [
             {
-              text: 'Dubbo',
-              link: 'http://dubbo.io/',
+              text: '日期',
+              //link: 'https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/',
               bgColor: '#7A63FC',
             },
             {
-              text: 'Dubbo Mesh',
-              link: 'http://dubbo.io/',
+              text: '2016年04月11日',
+              link: '/',
+              bgColor: '#00D0D9',
+            },
+          ]
+        },
+        {
+          title: '比特萌信息公司与政府部门相关业务对接工作全部完成',
+          content: <span>Dubbo 及 Nacos是阿里巴巴大规模微服务生产实践中的经典组合，对比传统的如ZooKeeper等注册中心与配置中心解决方案，在使用云原生及Service Mesh范式构建微服务应用平台时，通过在Dubbo中使用Nacos，可以完全释放Dubbo在大规模微服务治理、流量管理、服务集成及共享上的所有威力。</span>,
+          tags: [
+            {
+              text: '日期',
+              //link: 'https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/',
+              bgColor: '#7A63FC',
+            },
+            {
+              text: '2016年04月11日',
+              link: '/',
               bgColor: '#00D0D9',
             },
           ]
