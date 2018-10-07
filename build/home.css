@@ -173,6 +173,8 @@
       padding-right: 125px; }
     .footer-container .footer-body .cols-container .col-6 {
       width: 25%; }
+    .footer-container .footer-body .cols-container .col-3 {
+      width: 10%; }
     .footer-container .footer-body .cols-container h3 {
       font-family: Avenir-Heavy;
       font-size: 18px;
@@ -236,7 +238,7 @@
   border-radius: 4px;
   text-decoration: none; }
   .button-primary {
-    background: #4190FF; }
+    background: #005BAC; }
   .button-normal {
     background: transparent;
     border: 1px solid #fff; }
