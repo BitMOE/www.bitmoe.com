@@ -49,19 +49,6 @@ class Community extends Language {
           }
           </div>
         </section>
-        <section className="contact-section">
-          <div className="contact-body">
-            <h3>{dataSource.contacts.title}</h3>
-            <p>{dataSource.contacts.desc}</p>
-            <div className="contact-list">
-            {
-              dataSource.contacts.list.map((contact, i) => (
-                <ContactItem contact={contact} key={i} />
-              ))
-            }
-            </div>
-          </div>
-        </section>
         <section className="contributor-section">
           <div className="contributor-body">
             <h3>{dataSource.contributorGuide.title}</h3>

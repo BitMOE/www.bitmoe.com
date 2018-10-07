@@ -145,10 +145,10 @@ export default {
   'zh-cn': {
     sidemenu: [
       {
-        title: 'Nacos ',
+        title: '产品/服务 ',
         children: [
           {
-            title: 'Nacos是什么?',
+            title: '比特萌服务产品明细',
             opened: true,
             children: [
               {
@@ -284,6 +284,6 @@ export default {
         ],
       },
     ],
-    barText: 'Nacos 文档',
+    barText: '比特萌服务产品明细',
   },
 };

@@ -9,7 +9,7 @@ class Language extends React.Component {
 
   constructor(props) {
     super(props);
-    ReactGA.initialize('UA-121449408-1');
+    ReactGA.initialize('UA-89668739-1');
     ReactGA.pageview(window.location.pathname + window.location.search);
   }
 

@@ -1,7 +1,7 @@
 export default {
   rootPath: '', // 发布到服务器的根目录，需以/开头但不能有尾/，如果只有/，请填写空字符串
   port: 8080, // 本地开发服务器的启动端口
-  defaultLanguage: 'en-us',
+  defaultLanguage: 'zh-cn',
   'en-us': {
     pageMenu: [
       {
@@ -33,33 +33,75 @@ export default {
       title: 'Vision',
       content: 'By providing an easy-to-use service infrastructure such as dynamic service discovery, service configuration, service sharing and management and etc., Nacos help users better construct, deliver and manage their own service platform, reuse and composite business service faster and deliver value of business innovation more quickly so as to win market for users in the era of cloud native and in all cloud environments, such as private, mixed, or public clouds.',
     },
-    documentation: {
-      title: 'Documentation',
+    footerattention: {
+      title: '关注我们',
       list: [
         {
-          text: 'Overview',
-          link: '/en-us/docs/what-is-nacos.html',
+          text: '新浪微博',
+          link: '/zh-cn/docs/what-is-nacos.html',
         },
         {
-          text: 'Quick start',
-          link: '/en-us/docs/quick-start.html',
+          text: '新浪微博',
+          link: '/zh-cn/docs/quick-start.html',
         },
         {
-          text: 'Developer guide',
-          link: '/en-us/docs/contributing.html',
+          text: '新浪微博',
+          link: '/zh-cn/docs/contributing.html',
         },
       ],
     },
-    resources: {
-      title: 'Resources',
+    footerjoinus: {
+      title: '加入我们',
       list: [
         {
-          text: 'Community',
-          link: '/en-us/community/index.html',
+          text: '社会招聘',
+          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+        },
+        {
+          text: '校园招聘',
+          link: 'http://www.miitbeian.gov.cn',
+        },
+        {
+          text: '国际招聘',
+          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
         },
       ],
     },
-    copyright: '@ 2018 The Nacos Authors | An Alibaba Middleware (Aliware) Project',
+    footercontact: {
+      title: '联系我们',
+      list: [
+        {
+          text: '客户服务',
+          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+        },
+        {
+          text: '合作洽谈',
+          link: 'http://www.miitbeian.gov.cn',
+        },
+        {
+          text: '服务采购',
+          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+        },
+      ],
+    },
+    footerlegal: {
+      title: '法律信息',
+      list: [
+        {
+          text: '服务协议',
+          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+        },
+        {
+          text: '隐私政策',
+          link: 'http://www.miitbeian.gov.cn',
+        },
+        {
+          text: '知识产权',
+          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+        },
+      ],
+    },
+    copyright: 'Copyright © 2015-2018 Shenzhen BitMOE Information Technology Co., Ltd. All rights reserved.',
   },
   'zh-cn': {
     pageMenu: [
@@ -70,7 +112,7 @@ export default {
       },
       {
         key: 'docs',
-        text: '文档',
+        text: '服务',
         link: '/zh-cn/docs/what-is-nacos.html',
       },
       {
@@ -80,7 +122,7 @@ export default {
       },
       {
         key: 'community',
-        text: '社区',
+        text: '关于',
         link: '/zh-cn/community/index.html',
       },
       // {
@@ -89,35 +131,77 @@ export default {
       // },
     ],
     disclaimer: {
-      title: '愿景',
-      content: 'Nacos 通过提供简单易用的动态服务发现、服务配置、服务共享与管理等服务基础设施，帮助用户在云原生时代，在私有云、混合云或者公有云等所有云环境中，更好的构建、交付、管理自己的微服务平台，更快的复用和组合业务服务，更快的交付商业创新的价值，从而为用户赢得市场。',
+      title: '文化及愿景',
+      content: '比特萌信息团队于2015年末开始筹建，企业字号“比特萌”中的“比特”取自计算机基本计量单位“比特”，寓意“信息”技术，，另取《礼记·月令》“句者毕出,萌者尽达”中的“萌”字（萌芽之意），合并组成一个新词语；体现我司对于信息技术发展未来的信心及愿景。 \n 我公司秉承 信息 / 信用，通达未来。的企业经营理念，助力天下各市场主体强化自身信息职能，打赢未来信息战争',
     },
-    documentation: {
-      title: '文档',
+    footerattention: {
+      title: '关注我们',
       list: [
         {
-          text: '概览',
+          text: '新浪微博',
           link: '/zh-cn/docs/what-is-nacos.html',
         },
         {
-          text: '快速开始',
+          text: '新浪微博',
           link: '/zh-cn/docs/quick-start.html',
         },
         {
-          text: '开发者指南',
+          text: '新浪微博',
           link: '/zh-cn/docs/contributing.html',
         },
       ],
     },
-    resources: {
-      title: '资源',
+    footerjoinus: {
+      title: '加入我们',
       list: [
         {
-          text: '社区',
-          link: '/zh-cn/community/index.html',
+          text: '社会招聘',
+          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+        },
+        {
+          text: '校园招聘',
+          link: 'http://www.miitbeian.gov.cn',
+        },
+        {
+          text: '国际招聘',
+          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
         },
       ],
     },
-    copyright: '@ 2018 The Nacos Authors | An Alibaba Middleware (Aliware) Project',
+    footercontact: {
+      title: '联系我们',
+      list: [
+        {
+          text: '客户服务',
+          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+        },
+        {
+          text: '合作洽谈',
+          link: 'http://www.miitbeian.gov.cn',
+        },
+        {
+          text: '服务采购',
+          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+        },
+      ],
+    },
+    footerlegal: {
+      title: '法律信息',
+      list: [
+        {
+          text: '服务协议',
+          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+        },
+        {
+          text: '隐私政策',
+          link: 'http://www.miitbeian.gov.cn',
+        },
+        {
+          text: '知识产权',
+          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+        },
+      ],
+    },
+    copyright: '版权所有 © 2015-2018 深圳比特萌信息技术有限公司 保留所有权利',
   },
 };

@@ -18,25 +18,45 @@ class Footer extends React.Component {
               <h3>{dataSource.disclaimer.title}</h3>
               <p>{dataSource.disclaimer.content}</p>
             </div>
-            <div className="col col-6">
+            <div className="col col-3">
               <dl>
-                <dt>{dataSource.documentation.title}</dt>
+                <dt>{dataSource.footerattention.title}</dt>
                 {
-                  dataSource.documentation.list.map((d, i) => (
+                  dataSource.footerattention.list.map((d, i) => (
                     <dd key={i}><a href={getLink(d.link)} target={d.target || '_self'}>{d.text}</a></dd>
                   ))
                 }
               </dl>
             </div>
-            <div className="col col-6">
-            <dl>
-            <dt>{dataSource.resources.title}</dt>
+            <div className="col col-3">
+              <dl>
+                <dt>{dataSource.footerjoinus.title}</dt>
             {
-              dataSource.resources.list.map((d, i) => (
+              dataSource.footerjoinus.list.map((d, i) => (
                 <dd key={i}><a href={getLink(d.link)} target={d.target || '_self'}>{d.text}</a></dd>
               ))
             }
             </dl>
+            </div>
+            <div className="col col-3">
+              <dl>
+                <dt>{dataSource.footercontact.title}</dt>
+                {
+                  dataSource.footercontact.list.map((d, i) => (
+                    <dd key={i}><a href={getLink(d.link)} target={d.target || '_self'}>{d.text}</a></dd>
+                  ))
+                }
+              </dl>
+            </div>
+            <div className="col col-3">
+              <dl>
+                <dt>{dataSource.footerlegal.title}</dt>
+                {
+                  dataSource.footerlegal.list.map((d, i) => (
+                    <dd key={i}><a href={getLink(d.link)} target={d.target || '_self'}>{d.text}</a></dd>
+                  ))
+                }
+              </dl>
             </div>
           </div>
           <div className="copyright"><span>{dataSource.copyright}</span></div>
