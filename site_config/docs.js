@@ -2,23 +2,15 @@ export default {
   'en-us': {
     sidemenu: [
       {
-        title: 'Nacos ',
+        title: 'Products / Services',
         children: [
           {
-            title: 'What is Nacos',
+            title: 'Details of BitMOE Info. Products and Services',
             opened: true,
             children: [
               {
-                title: 'What is Nacos',
-                link: '/en-us/docs/what-is-nacos.html',
-              },
-              {
-                title: 'Concepts',
-                link: '/en-us/docs/concepts.html',
-              },
-              {
-                title: 'Architecure',
-                link: '/en-us/docs/architecture.html',
+                title: 'Product and Service Overview',
+                link: '/en-us/docs/products-and-service.html',
               },
             ],
           },
@@ -148,20 +140,12 @@ export default {
         title: '产品/服务 ',
         children: [
           {
-            title: '比特萌服务产品明细',
+            title: '比特萌信息产品及服务明细',
             opened: true,
             children: [
               {
-                title: 'Nacos简介',
-                link: '/zh-cn/docs/what-is-nacos.html',
-              },
-              {
-                title: '概念',
-                link: '/zh-cn/docs/concepts.html',
-              },
-              {
-                title: '架构',
-                link: '/zh-cn/docs/architecture.html',
+                title: '产品及服务概述',
+                link: '/zh-cn/docs/products-and-service.html',
               },
             ],
           },

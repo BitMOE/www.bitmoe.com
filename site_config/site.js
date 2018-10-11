@@ -12,7 +12,7 @@ export default {
       {
         key: 'docs',
         text: 'DOCS',
-        link: '/en-us/docs/quick-start.html',
+        link: '/en-us/docs/products-and-service.html',
       },
       {
         key: 'blog',
@@ -45,8 +45,8 @@ export default {
           link: '/zh-cn/docs/quick-start.html',
         },
         {
-          text: '新浪微博',
-          link: '/zh-cn/docs/contributing.html',
+          text: 'Github',
+          link: 'https://github.com/BitMOE',
         },
       ],
     },
@@ -113,7 +113,7 @@ export default {
       {
         key: 'docs',
         text: '服务',
-        link: '/zh-cn/docs/what-is-nacos.html',
+        link: '/zh-cn/docs/products-and-service.html',
       },
       {
         key: 'blog',
@@ -146,8 +146,8 @@ export default {
           link: '/zh-cn/docs/quick-start.html',
         },
         {
-          text: '新浪微博',
-          link: '/zh-cn/docs/contributing.html',
+          text: 'Github',
+          link: 'https://github.com/BitMOE',
         },
       ],
     },
