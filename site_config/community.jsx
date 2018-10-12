@@ -153,21 +153,21 @@ export default {
       title: '事件 & 新闻',
       list: [
           {
-              img: 'https://cdn.nlark.com/lark/0/2018/png/11189/1537795153259-cc2c60c2-d7cb-431a-8858-cbd71b1c89e9.png',
+              img: '/images/BitMOENewlogo.png',
               title: 'BitMOE 比特萌 品牌释义',
-              content: '在近期的Aliware Open Source 成都站的活动上，阿里巴巴高级工程师邢学超（于怀）分享了Nacos v0.2的规划和进度，并对Nacos v0.3的控制台进行了预览。Nacos v0.2将进一步融入Duboo和Spring Cloud生态，帮助开发者更好的在微服务场景下使用服务发现和动态配置管理。',
-              dateStr: 'Sept 06，2018',
-              link: '/en-us/blog/cengdu-dubbo.html',
+              content: '比特萌信息团队于2015年末开始筹建，企业字号“比特萌”中的“比特”取自计算机基本计量单位“比特”，寓意“信息”技术，另取《礼记·月令》“句者毕出,萌者尽达”中的“萌”字（萌芽之意），合并组成一个新词语；体现我司对于信息技术发展未来的信心及愿景。 我公司秉承 信息 / 信用，通达未来。的企业经营理念，助力天下各市场主体强化自身信息职能，打赢未来信息战争',
+              dateStr: '2016年01月28日',
+              link: '/zh-cn/blog/bitmoe-logo-interpretation.html',
           },
           {
-              img: 'https://cdn.yuque.com/lark/0/2018/png/15914/1530083408486-b4698533-8e69-4e0a-9f3a-fdb1cdfbd290.png',
+              img: '/images/BitMOENewlogo.png',
               title: '比特萌公司开票信息及收款账户',
               dateStr: 'Sept 2nd, 2018',
               content: '本文翻译了Consul对于Kubernetes的整合所发布的公告文章（[原文地址](https://www.hashicorp.com/blog/consul-plus-kubernetes)）。Consul通过支持Service Mesh，并提供对Kubernetes的无缝支持，与目前最受社区热捧的产品进行绑定，并通过功能预告的形式，来达到对产品宣传效果的最大化。',
-              link: '/en-us/blog/consul-k8s.html',
+              link: '/zh-cn/blog/invoiceinfo-bankaccount.html',
           },
            {
-               img: 'https://cdn.yuque.com/lark/0/2018/png/15914/1530083408486-b4698533-8e69-4e0a-9f3a-fdb1cdfbd290.png',
+               img: '/images/BitMOENewlogo.png',
                title: '比特萌公司云计算合作服务商',
                content: '本文详细回顾了阿里巴巴的服务注册中心ConfigServer产品从2008年建设元年至今经历的关键架构演进。通过这个文章你会对基于AP模式的注册中心在技术发展过程中将会碰到的问题有所感知。',
                dateStr: 'March 06，2018',
