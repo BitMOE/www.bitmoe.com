@@ -154,30 +154,30 @@ export default {
       list: [
           {
               img: '/images/BitMOENewlogo.png',
-              title: 'BitMOE 比特萌 品牌释义',
-              content: '比特萌信息团队于2015年末开始筹建，企业字号“比特萌”中的“比特”取自计算机基本计量单位“比特”，寓意“信息”技术，另取《礼记·月令》“句者毕出,萌者尽达”中的“萌”字（萌芽之意），合并组成一个新词语；体现我司对于信息技术发展未来的信心及愿景。 我公司秉承 信息 / 信用，通达未来。的企业经营理念，助力天下各市场主体强化自身信息职能，打赢未来信息战争',
-              dateStr: '2016年01月28日',
-              link: '/zh-cn/blog/bitmoe-logo-interpretation.html',
-          },
-          {
-              img: '/images/BitMOENewlogo.png',
               title: '比特萌公司开票信息及收款账户',
-              dateStr: 'Sept 2nd, 2018',
+              dateStr: 'Last Update: 2016年01月28日',
               content: '本文翻译了Consul对于Kubernetes的整合所发布的公告文章（[原文地址](https://www.hashicorp.com/blog/consul-plus-kubernetes)）。Consul通过支持Service Mesh，并提供对Kubernetes的无缝支持，与目前最受社区热捧的产品进行绑定，并通过功能预告的形式，来达到对产品宣传效果的最大化。',
               link: '/zh-cn/blog/invoiceinfo-bankaccount.html',
           },
+          {
+              img: '/images/BitMOENewLogoWall.png',
+              title: 'BitMOE 比特萌 品牌释义',
+              dateStr: '2016年01月28日',
+              content: '比特萌信息团队于2015年末开始筹建，企业字号“比特萌”中的“比特”取自计算机基本计量单位“比特”，寓意“信息”技术，另取《礼记·月令》“句者毕出,萌者尽达”中的“萌”字（萌芽之意），合并组成一个新词语；体现我司对于信息技术发展未来的信心及愿...',
+              link: '/zh-cn/blog/bitmoe-logo-interpretation.html',
+          },
            {
-               img: '/images/BitMOENewlogo.png',
+               img: '/images/BitMOENewlogoAliyun.png',
                title: '比特萌公司云计算合作服务商',
+               dateStr: 'Last Update: 2016年01月28日',
                content: '本文详细回顾了阿里巴巴的服务注册中心ConfigServer产品从2008年建设元年至今经历的关键架构演进。通过这个文章你会对基于AP模式的注册中心在技术发展过程中将会碰到的问题有所感知。',
-               dateStr: 'March 06，2018',
                link: '/zh-cn/blog/alibaba-configserver.html',
            },
            {
                img: '/img/kunyu.JPG',
                title: 'Nacos - 阿里巴巴注册中心和配置中心开源计划',
                content: '阿里巴巴计划开启一个名叫Nacos的新开源项目,坤宇介绍了这个开源项目的初衷，他表示 “将通过Nacos项目将阿里巴巴在建设共享服务体系中使用的服务发现、配置及服务管理平台贡献给开源社区"。',
-               dateStr: 'March 06，2018',
+               dateStr: 'Last Update: 2016年01月28日',
                link: '/zh-cn/blog/Nacos-is-Coming.html',
            },
           {
