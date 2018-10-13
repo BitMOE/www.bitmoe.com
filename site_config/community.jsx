@@ -156,13 +156,13 @@ export default {
               img: '/images/BitMOENewlogo.png',
               title: '比特萌公司开票信息及收款账户',
               dateStr: 'Last Update: 2016年01月28日',
-              content: '本文翻译了Consul对于Kubernetes的整合所发布的公告文章（[原文地址](https://www.hashicorp.com/blog/consul-plus-kubernetes)）。Consul通过支持Service Mesh，并提供对Kubernetes的无缝支持，与目前最受社区热捧的产品进行绑定，并通过功能预告的形式，来达到对产品宣传效果的最大化。',
+              content: '因我公司为小规模纳税人，如需向我方开具发票，请开具 增值税普通发票，名称：深圳比特萌信息技术有限公司 纳税人识别号：914403003599427315 地址：深圳市南山区蛇口街道公园南路蛇口联合工业村G栋A603南山电子商务创新服务基地...',
               link: '/zh-cn/blog/invoiceinfo-bankaccount.html',
           },
           {
               img: '/images/BitMOENewLogoWall.png',
               title: 'BitMOE 比特萌 品牌释义',
-              dateStr: '2016年01月28日',
+              dateStr: 'Date: 2016年01月28日',
               content: '比特萌信息团队于2015年末开始筹建，企业字号“比特萌”中的“比特”取自计算机基本计量单位“比特”，寓意“信息”技术，另取《礼记·月令》“句者毕出,萌者尽达”中的“萌”字（萌芽之意），合并组成一个新词语；体现我司对于信息技术发展未来的信心及愿...',
               link: '/zh-cn/blog/bitmoe-logo-interpretation.html',
           },
@@ -170,7 +170,7 @@ export default {
                img: '/images/BitMOENewlogoAliyun.png',
                title: '比特萌公司云计算合作服务商',
                dateStr: 'Last Update: 2016年01月28日',
-               content: '本文详细回顾了阿里巴巴的服务注册中心ConfigServer产品从2008年建设元年至今经历的关键架构演进。通过这个文章你会对基于AP模式的注册中心在技术发展过程中将会碰到的问题有所感知。',
+               content: '比特萌信息公司合作公司的产品推介，例如云计算产品，阿里云ECS，腾讯云COS，CDN服务，域名注册等等...，',
                link: '/zh-cn/blog/alibaba-configserver.html',
            },
            {
@@ -250,15 +250,15 @@ export default {
       list: [
         {
           title: '比特萌信息2017年度纳税总额较上年增长20倍计划完成',
-          content: <span>Dubbo 及 Nacos是阿里巴巴大规模微服务生产实践中的经典组合，对比传统的如ZooKeeper等注册中心与配置中心解决方案，在使用云原生及Service Mesh范式构建微服务应用平台时，通过在Dubbo中使用Nacos，可以完全释放Dubbo在大规模微服务治理、流量管理、服务集成及共享上的所有威力。</span>,
+          content: <span>2018年05月，公司完成了2017年度汇算清缴工作，完成当年纳税总额较上年增长20倍的预算。</span>,
           tags: [
             {
               text: '日期',
-              //link: 'https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/',
+              //link: 'https://www.bitmoe.com/',
               bgColor: '#7A63FC',
             },
             {
-              text: '2016年04月11日',
+              text: '2018年05月30日',
               link: '/',
               bgColor: '#00D0D9',
             },
@@ -266,11 +266,11 @@ export default {
         },
         {
           title: '比特萌信息公司与政府部门相关业务对接工作全部完成',
-          content: <span>Dubbo 及 Nacos是阿里巴巴大规模微服务生产实践中的经典组合，对比传统的如ZooKeeper等注册中心与配置中心解决方案，在使用云原生及Service Mesh范式构建微服务应用平台时，通过在Dubbo中使用Nacos，可以完全释放Dubbo在大规模微服务治理、流量管理、服务集成及共享上的所有威力。</span>,
+          content: <span>2016年4月，公司完成了与银行的开户工作，并完成公司注册资本的实际缴纳。</span>,
           tags: [
             {
               text: '日期',
-              //link: 'https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/',
+              //link: 'https://www.bitmoe.com/',
               bgColor: '#7A63FC',
             },
             {
@@ -282,11 +282,11 @@ export default {
         },
         {
           title: '比特萌信息公司正式注册成立',
-          content: <span>Nacos 支持Kubernetes 以及 CNCF所需要的服务发现及动态配置管理的需求，Nacos可以完全无缝的替代Kubernetes的原生的DNS-based Service Discovery 解决方案，Nacos 提供了更多的服务治理侧的特性，这包括服务的域名管理，服务健康及生命周期管理，流量管理及智能路由策略管理等，Nacos也增强了对ConfigMap的管理，这包括版本配置、灰度发布等。</span>,
+          content: <span>2016年初，为响应李总理 “大众创业 万众创新” 口号，比特萌团队决定将团队转换成有限公司，以更好的助力信息技术服务。</span>,
           tags: [
             {
               text: '日期',
-              //link: 'https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/',
+              //link: 'https://www.bitmoe.com/',
               bgColor: '#7A63FC',
             },
             {
@@ -298,11 +298,11 @@ export default {
         },
         {
           title: '比特萌联合创始人团队完成组建',
-          content: <span>Nacos 完全兼容和无缝支持 Spring Cloud的相关API及主要相关功能，你可以将Nacos作为SpringCloud Config Server的配置服务或者Eureka/Consul/ZooKeeper等的服务发现产品的更好替代者，Nacos 在配置管理和服务管理上带来了很多面向生产及微服务治理所需要的特性增强。</span>,
+          content: <span>2015年末，来自全国各地的8位HEXO爱好者秉着“信达未来”的理念，致力于信息技术的推广团队。</span>,
           tags: [
             {
               text: '日期',
-              //link: 'http://projects.spring.io/spring-cloud/',
+              //link: 'https://www.bitmoe.com/',
               bgColor: '#7A63FC',
             },
             {

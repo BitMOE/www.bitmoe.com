@@ -146,7 +146,7 @@ export default {
           link: '/zh-cn/docs/quick-start.html',
         },
         {
-          text: 'Github',
+          text: '新浪微博',
           link: 'https://github.com/BitMOE',
         },
       ],
