@@ -97,7 +97,7 @@ export default {
         },
         {
           text: '服务项目',
-          link: '/zh-cn/docs/what-is-nacos.html',
+          link: '/zh-cn/docs/products-and-service.html',
           type: 'normal',
         },
       ],
