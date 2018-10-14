@@ -150,12 +150,12 @@ export default {
             ],
           },
             {
-                title: '快速入门',
+                title: '软硬件开发及OEM服务',
                 opened: true,
                 children: [
                     {
-                        title: '快速入门',
-                        link: '/zh-cn/docs/quick-start.html',
+                        title: 'Raspberry PI 微型计算机',
+                        link: '/zh-cn/docs/raspberrypi.html',
                     },
             {
                 title: 'Nacos与Spring快速入门',
@@ -172,7 +172,7 @@ export default {
             ]
             },
           {
-            title: '用户指南',
+            title: '云计算服务维护',
             opened: true,
             children: [
               {
@@ -191,7 +191,7 @@ export default {
             ],
           },
           {
-            title: '运维指南',
+            title: '云计算服务开发',
             children: [
               {
                 title: '部署手册',
@@ -216,43 +216,15 @@ export default {
             ],
           },
           {
-            title: '开源共建',
+            title: '优秀云产品推荐',
             children: [
               {
-                title: '贡献源码',
-                link: '/zh-cn/docs/contributing.html',
+                title: '阿里云计算服务',
+                link: '/zh-cn/docs/aliyuncloud-service.html',
               },
               {
-                title: 'Nacos有奖活动介绍',
-                link: '/zh-cn/docs/activity.html',
-               },
-              {
-                title: 'pull request模板',
-                link: '/zh-cn/docs/pull-request.html',
-              },
-              {
-                title: '如何提交问题报告',
-                link: '/zh-cn/docs/how-to-reporting-bugs.html',
-              },
-              {
-                title: 'Nacos规划',
-                link: '/zh-cn/docs/roadmap.html',
-              },
-              {
-                  title: 'Nacos支持SpringCloud生态',
-                  link: '/zh-cn/docs/use-nacos-with-springcloud.html',
-              },
-              {
-                  title: 'nacos支持dubbo生态',
-                  link: '/zh-cn/docs/use-nacos-with-dubbo.html',
-              },
-              {
-                  title: 'Nacos支持k8s',
-                  link: '/zh-cn/docs/use-nacos-with-kubernetes.html',
-              },
-              {
-                  title: 'nacos支持istio',
-                  link: '/zh-cn/docs/use-nacos-with-istio.html',
+                title: '腾讯云计算服务',
+                link: '/zh-cn/docs/aliyuncloud-service.html',
               },
             ],
           },
