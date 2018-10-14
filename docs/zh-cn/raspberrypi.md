@@ -11,16 +11,27 @@ description: 比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树
 我们希望将树莓派推广给全世界的青少年电脑爱好者，用于培养计算机程序设计的兴趣和能力。
 
 
-<a href="https://www.bitmoe.com/go/aliyungm"><img src="/images/rasp-pi/3d-box-mockup.png" alt="全民云计算 高性能云服务器2折起"></a>
-<a href="https://www.bitmoe.com/go/aliyunecs"><img src="/images/rasp-pi/rasp-pi-3-b+-board.png" alt="阿里云ECS 高性能服务器，就选阿里云"></a>
+<img src="/images/rasp-pi/3d-box-mockup.png" alt="树莓派盒子">
+<img src="/images/rasp-pi/rasp-pi-3-b+-board.png" alt="树莓派主板">
 
 
 
 | 序号 | 产品类型 | 描述 |
-| :--- | :--- | :--- |
-| 1 | 主机服务 | [全民云计算 高性能云服务器2折起](https://www.bitmoe.com/go/aliyungm) |
-| 2| 主机服务 | [阿里云ECS 高性能服务器，就选阿里云](https://www.bitmoe.com/go/aliyunecs) |
-| 3 | 主机服务 | [云服务器114元/年 学生特惠云服务器](https://www.bitmoe.com/go/aliyunxs) |
-| 4 | 主机服务 | [海外云服务器 低至323元/年](https://www.bitmoe.com/go/aliyunq) |
-| 5 | 主机服务 | [企业云服务器 企业级云服务器特惠5折](https://www.bitmoe.com/go/aliyune) |
-| 6 | 证书服务 | [云盾证书 云上签发，部署简单，防监听、防劫持](https://www.bitmoe.com/go/aliyuncrt) |
+| :--- | :----- | :--- |
+| 1 | 中央处理器 | 四核ARM Cortex-A53（ARMv8）64位@ 1.4GHz CPU |
+| 2 | 显示卡设备 | 博通集成 Videocore-IV GPU |
+| 3 | 内存卡设备 | 1GB LPDDR2 SDRAM |
+| 4 | 有线网络卡 | 千兆以太网（通过USB2.0通道，最大吞吐量 300Mbps） |
+| 5 | 无线网络卡 | 2.4GHz和5GHz 双频Wi-Fi，支持802.11b/g/n/ac |
+| 6 | 蓝牙适配器 | 蓝牙4.2&低功耗蓝牙（BLE） |
+| 7 | 主存储设备 | Micro-SD 接口 |
+| 9 | 尺寸及重量 | 82mmx 56mmx 19.5mm，50克 |
+| 8 | 其他  接口 | HDMI，3.5mm模拟音视频，4x USB 2.0、CSI、DSI、40pin扩展 |
+
+### 其他扩展设备：
+
+
+[Raspberry Pi HiFi DAC 音频](/go/taobao)
+[Raspberry Pi 外壳](/go/taobao)
+[Raspberry Pi 电源适配器](/go/taobao)
+[RaspberryPi Camera V2 摄像头模块](/go/taobao)

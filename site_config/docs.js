@@ -153,21 +153,21 @@ export default {
                 title: '软硬件开发及OEM服务',
                 opened: true,
                 children: [
-                    {
-                        title: 'Raspberry PI 微型计算机',
-                        link: '/zh-cn/docs/raspberrypi.html',
-                    },
+//                    {
+//                        title: 'Raspberry PI 微型计算机',
+//                        link: '/zh-cn/docs/raspberrypi.html',
+//                    },
             {
-                title: 'Nacos与Spring快速入门',
-                link: '/zh-cn/docs/quick-start-spring.html',
+                title: 'Raspberry PI 微型计算机',
+                link: '/zh-cn/docs/raspberrypi.html',
             },
             {
-                title: 'Nacos与Spring Boot快速入门',
-                link: '/zh-cn/docs/quick-start-spring-boot.html',
+                title: '比特萌计算机远程管理平台',
+                link: '/zh-cn/docs/bitmoe-remote-management-platform.html',
             },
             {
-                title: 'Nacos与Spring Cloud快速入门',
-                link: '/zh-cn/docs/quick-start-spring-cloud.html',
+                title: '比特萌即时通讯软件',
+                link: '/zh-cn/docs/bitmoe-instant-messaging-software.html',
             },
             ]
             },
@@ -176,47 +176,33 @@ export default {
             opened: true,
             children: [
               {
-                 title: 'Java的SDK',
-                  link: '/zh-cn/docs/sdk.html',
+                 title: '云服务器系统及应用配置服务',
+                  link: '/zh-cn/docs/system-and-application-configuration-services.html',
               },
 
               {
-                  title: '其他语言的SDK',
+                  title: '提供主流云产品配置咨询服务',
                   link: '/zh-cn/docs/other-language.html',
-              },
-              {
-                  title: 'Open-API指南',
-                  link: '/zh-cn/docs/open-API.html',
               },
             ],
           },
           {
             title: '云计算服务开发',
+            opened: true,
             children: [
               {
-                title: '部署手册',
+                title: '网站开发及定制服务',
                 link: '/zh-cn/docs/deployment.html',
               },
                 {
-                    title: '集群部署说明',
+                    title: '支付宝、微信小程序开发',
                     link: '/zh-cn/docs/cluster-mode-quick-start.html',
                 },
-                {
-                title: '运维API',
-                link: '/zh-cn/docs/managementAPI.html',
-              },
-              {
-                title: '命令行手册',
-                link: '/zh-cn/docs/CLI-guide.html',
-              },
-              {
-                title: '控制台手册',
-                link: '/zh-cn/docs/console-guide.html',
-              }
             ],
           },
           {
             title: '优秀云产品推荐',
+            opened: true,
             children: [
               {
                 title: '阿里云计算服务',
@@ -229,10 +215,11 @@ export default {
             ],
           },
           {
-            title: '社区',
+            title: '其他更多产品...',
+            opened: true,
             children: [
               {
-                title: '社区',
+                title: '您的需求，我们的使命！！！',
                 link: '/zh-cn/docs/community.html',
               }
             ],
