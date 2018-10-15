@@ -139,15 +139,15 @@ export default {
       list: [
         {
           text: '新浪微博',
-          link: '/zh-cn/docs/what-is-nacos.html',
+          link: 'https://weibo.com/BitMOE',
         },
         {
-          text: '新浪微博',
-          link: '/zh-cn/docs/quick-start.html',
+          text: '腾讯微博',
+          link: 'https://t.qq.com/BitMOE',
         },
         {
-          text: '新浪微博',
-          link: 'https://github.com/BitMOE',
+          text: '推特信息',
+          link: 'https://twitter.com/BitMOE',
         },
       ],
     },
@@ -156,15 +156,15 @@ export default {
       list: [
         {
           text: '社会招聘',
-          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+          link: '/zh-cn/docs/hr.html',
         },
         {
           text: '校园招聘',
-          link: 'http://www.miitbeian.gov.cn',
+          link: '/zh-cn/docs/join.html',
         },
         {
           text: '国际招聘',
-          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+          link: '/zh-cn/docs/career.html',
         },
       ],
     },
@@ -173,15 +173,15 @@ export default {
       list: [
         {
           text: '客户服务',
-          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+          link: '/zh-cn/docs/service.html',
         },
         {
           text: '合作洽谈',
-          link: 'http://www.miitbeian.gov.cn',
+          link: '/zh-cn/docs/contactus.html',
         },
         {
           text: '服务采购',
-          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+          link: '/zh-cn/docs/spd.html',
         },
       ],
     },
@@ -190,15 +190,15 @@ export default {
       list: [
         {
           text: '服务协议',
-          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+          link: '/zh-cn/docs/termsofservice.html',
         },
         {
           text: '隐私政策',
-          link: 'http://www.miitbeian.gov.cn',
+          link: '/zh-cn/docs/privacypolicy.html',
         },
         {
           text: '知识产权',
-          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+          link: '/zh-cn/docs/intellectualproperty.html',
         },
       ],
     },

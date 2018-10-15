@@ -224,6 +224,57 @@ export default {
               }
             ],
           },
+          {
+            title: '法律信息',
+            children: [
+              {
+                title: '服务协议',
+                link: '/zh-cn/docs/termsofservice.html',
+              },
+              {
+                title: '隐私政策',
+                link: '/zh-cn/docs/privacypolicy.html',
+              },
+              {
+                title: '知识产权',
+                link: '/zh-cn/docs/intellectualproperty.html',
+              },
+            ],
+          },
+          {
+            title: '联系我们',
+            children: [
+              {
+                title: '客户服务',
+                link: '/zh-cn/docs/service.html',
+              },
+              {
+                title: '合作洽谈',
+                link: '/zh-cn/docs/contactus.html',
+              },
+              {
+                title: '服务采购',
+                link: '/zh-cn/docs/spd.html',
+              },
+            ],
+          },
+          {
+            title: '加入我们',
+            children: [
+              {
+                title: '社会招聘',
+                link: '/zh-cn/docs/hr.html',
+              },
+              {
+                title: '校园招聘',
+                link: '/zh-cn/docs/join.html',
+              },
+              {
+                title: '国际招聘',
+                link: '/zh-cn/docs/career.html',
+              },
+            ],
+          },
         ],
       },
     ],
