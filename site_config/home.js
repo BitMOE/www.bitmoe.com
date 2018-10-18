@@ -1,51 +1,39 @@
 export default {
   'en-us': {
     brand: {
-      briefIntroduction: 'an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications',
+      briefIntroduction: 'BITMOE INFO. Cloud Computing Service Provider',
       buttons: [
         {
-          text: 'View on Github',
-          link: 'https://github.com/alibaba/nacos',
+          text: 'About',
+          link: '/en-us/community/',
           type: 'primary',
         },
         {
-          text: 'Manual',
-          link: '/en-us/docs/what-is-nacos.html',
+          text: 'Service',
+          link: '/en-us/docs/products-and-service.html',
           type: 'normal',
         },
       ],
       version: {
-        text: 'V0.2.1-RC1',
-        link: 'https://github.com/alibaba/nacos/releases',
+        text: '精工天下',
       },
       note: {
-        text: 'Release Note',
-        link: 'https://github.com/alibaba/nacos/releases',
+        text: '信达未来',
       },
-      releaseDate: 'Released on Sept 21, 2018',
+      releaseDate: 'Began on 01 2016, 28 A.D.',
     },
     functions: {
-      title: 'Features',
+      title: 'Corporate Culture',
       list: [
         {
-          img: '/images/dynamic_configuration.png',
-          title: 'Dynamic Configuration Service',
-          content: 'Dynamic Configuration Service allows you to manage configurations in all environments in a centralized, externalized, and dynamic approach. Dynamic configuration saves you from redeploying your applications and services when configuration is updated. You can implement stateless services and achieve on-demand scaling effortlessly.',
-        },
-        {
-          img: '/images/service_discovery.png',
-          title: 'Service Discovery and Management',
-          content: 'Dynamic Service Discovery is key to service-centric (for example microservice or cloud-native) architectures. Nacos supports both DNS-based and RPC-based (Dubbo, gRPC) service discovery, and provides real-time service health checks to prevent routing requests from being sent to unhealthy hosts or service instances. With Nacos, you can also implement circuit breakers for your services with ease.',
-        },
-        {
           img: '/images/dynamic_DNS.png',
-          title: 'Dynamic DNS Service',
+          title: 'Xin · Up to the future',
           content: 'By supporting weighted routing, Dynamic DNS Service helps you implement mid-tier load balancing, more flexible routing, traffic control and DNS resolution services in the production environment within your data center. Dynamic DNS Service also makes it easier for you to implement DNS-based service discovery, which minimizes the risk of coupling to vendor-specific service discovery APIs.',
         },
       ],
     },
     features: {
-      title: 'Why Nacos',
+      title: 'Service Items',
       list: [
         {
           img: '/images/feature_easy_to_use.png',

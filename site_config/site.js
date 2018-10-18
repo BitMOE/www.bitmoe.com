@@ -11,7 +11,7 @@ export default {
       },
       {
         key: 'docs',
-        text: 'DOCS',
+        text: 'SERVICE',
         link: '/en-us/docs/products-and-service.html',
       },
       {
@@ -21,7 +21,7 @@ export default {
       },
       {
         key: 'community',
-        text: 'COMMUNITY',
+        text: 'ABOUT',
         link: '/en-us/community',
       },
       // {
@@ -30,7 +30,7 @@ export default {
       // },
     ],
     disclaimer: {
-      title: 'Vision',
+      title: 'Culture and Vision',
       content: 'By providing an easy-to-use service infrastructure such as dynamic service discovery, service configuration, service sharing and management and etc., Nacos help users better construct, deliver and manage their own service platform, reuse and composite business service faster and deliver value of business innovation more quickly so as to win market for users in the era of cloud native and in all cloud environments, such as private, mixed, or public clouds.',
     },
     footerattention: {
