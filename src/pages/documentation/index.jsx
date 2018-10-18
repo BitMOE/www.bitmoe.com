@@ -95,11 +95,11 @@ class Documentation extends Language {
         <Header
           currentKey="docs"
           type="normal"
-          logo={getLink('/img/nacos_colorful.png')}
+          logo={getLink('/images/bitmoe_colorful.png')}
           language={language}
           onLanguageChange={this.onLanguageChange}
         />
-        <Bar img={getLink('/img/docs.png')} text={dataSource.barText} />
+        <Bar img={getLink('/images/docs.png')} text={dataSource.barText} />
         <section className="content-section">
           <div className="content-body">
             <Sidemenu dataSource={dataSource.sidemenu} />
@@ -110,7 +110,7 @@ class Documentation extends Language {
             />
           </div>
         </section>
-        <Footer logo={getLink('/img/nacos_gray.png')} language={language} />
+        <Footer logo={getLink('/images/bitmoe_logo_footer.png')} language={language} />
       </div>
     );
   }

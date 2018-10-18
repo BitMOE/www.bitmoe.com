@@ -21,11 +21,11 @@ class Blog extends Language {
         <Header
           currentKey="blog"
           type="normal"
-          logo={getLink('/img/nacos_colorful.png')}
+          logo={getLink('/images/bitmoe_colorful.png')}
           language={language}
           onLanguageChange={this.onLanguageChange}
         />
-        <Bar img={getLink('/img/blog.png')} text={dataSource.barText} />
+        <Bar img={getLink('/images/blog.png')} text={dataSource.barText} />
         <section className="blog-container">
           <div className="col col-18 left-part">
             <PageSlider pageSize={5}>
@@ -47,7 +47,7 @@ class Blog extends Language {
             </ul>
           </div>
         </section>
-        <Footer logo={getLink('/img/nacos_gray.png')} language={language} />
+        <Footer logo={getLink('/images/bitmoe_logo_footer.png')} language={language} />
       </div>
     );
   }

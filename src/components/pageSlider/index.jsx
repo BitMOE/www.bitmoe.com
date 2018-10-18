@@ -104,7 +104,7 @@ class pageSlider extends React.Component {
               'slider-control-prev-hidden': page === 0,
             })
           }
-          src={getLink('/img/prev.png')}
+          src={getLink('/images/prev.png')}
           onClick={this.changePage.bind(this, page - 1)}
         />
         <img
@@ -114,7 +114,7 @@ class pageSlider extends React.Component {
               'slider-control-next-hidden': page === splitNum - 1,
             })
           }
-          src={getLink('/img/next.png')}
+          src={getLink('/images/next.png')}
           onClick={this.changePage.bind(this, page + 1)}
         />
       </div>

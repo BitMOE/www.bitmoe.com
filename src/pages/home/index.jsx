@@ -39,10 +39,10 @@ class Home extends Language {
     const language = this.getLanguage();
     const dataSource = homeConfig[language];
     const { headerType } = this.state;
-    const headerLogo = headerType === 'primary' ? getLink('/img/nacos_white.png') : getLink('/img/nacos_colorful.png');
+    const headerLogo = headerType === 'primary' ? getLink('/images/bitmoe_white.png') : getLink('/images/bitmoe_colorful.png');
     return (
       <div className="home-page">
-        <section className="top-section" style={{ background: `url(${getLink('/img/black_dot.png')}) repeat`, backgroundSize: '14px 14px' }}>
+        <section className="top-section" style={{ background: `url(${getLink('/images/black_dot.png')}) repeat`, backgroundSize: '14px 14px' }}>
           <Header
             currentKey="home"
             type={headerType}
@@ -51,7 +51,7 @@ class Home extends Language {
             onLanguageChange={this.onLanguageChange}
           />
           <div className="vertical-middle">
-            <img className="product-logo" src={getLink('/img/nacos.png')} />
+            <img className="product-logo" src={getLink('/images/BitMOE.png')} />
             <p className="product-desc">{dataSource.brand.briefIntroduction}</p>
             <div className="button-area">
               {
@@ -94,7 +94,7 @@ class Home extends Language {
             </ul>
           </div>
         </section>
-        <Footer logo={getLink('/img/nacos_gray.png')} language={language} />
+        <Footer logo={getLink('/images/bitmoe_logo_footer.png')} language={language} />
       </div>
     );
   }

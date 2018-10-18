@@ -38,7 +38,7 @@ class BlogItem extends React.Component {
         onMouseOut={this.onMouseOut}
       >
         <div className="title">
-          <img src={isHovered ? getLink('/img/docs_hover.png') : getLink('/img/docs_normal.png')} />
+          <img src={isHovered ? getLink('/images/docs_hover.png') : getLink('/images/docs_normal.png')} />
           <span>{title}</span>
         </div>
         <div className="brief-info">

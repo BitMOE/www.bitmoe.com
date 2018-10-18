@@ -24,11 +24,11 @@ class Community extends Language {
         <Header
           currentKey="community"
           type="normal"
-          logo={getLink('/img/nacos_colorful.png')}
+          logo={getLink('/images/bitmoe_colorful.png')}
           language={language}
           onLanguageChange={this.onLanguageChange}
         />
-        <Bar img={getLink('/img/community.png')} text={dataSource.barText} />
+        <Bar img={getLink('/images/community.png')} text={dataSource.barText} />
         <section className="events-section">
           <div className="events-body">
             <h3>{dataSource.events.title}</h3>
@@ -62,7 +62,7 @@ class Community extends Language {
             </div>
           </div>
         </section>
-        <Footer logo={getLink('/img/nacos_gray.png')} language={language} />
+        <Footer logo={getLink('/images/bitmoe_logo_footer.png')} language={language} />
       </div>
     );
   }

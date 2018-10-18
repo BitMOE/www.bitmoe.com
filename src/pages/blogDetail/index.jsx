@@ -90,7 +90,7 @@ class BlogDetail extends Language {
         <Header
           type="normal"
           currentKey="blog"
-          logo={getLink('/img/nacos_colorful.png')}
+          logo={getLink('/images/bitmoe_colorful.png')}
           language={language}
           onLanguageChange={this.onLanguageChange}
         />
@@ -99,7 +99,7 @@ class BlogDetail extends Language {
           ref={(node) => { this.markdownContainer = node; }}
           dangerouslySetInnerHTML={{ __html }}
         />
-        <Footer logo={getLink('/img/nacos_gray.png')} language={language} />
+        <Footer logo={getLink('/images/bitmoe_logo_footer.png')} language={language} />
       </div>
     );
   }

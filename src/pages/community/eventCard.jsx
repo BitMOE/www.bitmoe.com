@@ -14,7 +14,7 @@ class EventCard extends React.Component {
           <p>{event.content}</p>
           <a href={event.link} target={event.target || '_self'}>
             {event.dateStr}
-            <img className="arrow" src={getLink('/img/arrow_right.png')} />
+            <img className="arrow" src={getLink('/images/arrow_right.png')} />
           </a>
         </div>
       </div>

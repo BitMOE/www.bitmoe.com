@@ -22,7 +22,7 @@ export default {
               link: '/en-us/blog/consul-k8s.html',
           },
         // {
-        //   img: '/img/kunyu.JPG',
+        //   img: '/images/kunyu.JPG',
         //   title: 'Nacos - 阿里巴巴注册中心和配置中心开源计划',
         //   content: '阿里巴巴计划开启一个名叫Nacos的新开源项目,坤宇介绍了这个开源项目的初衷，他表示 “将通过Nacos项目将阿里巴巴在建设共享服务体系中使用的服务发现、配置及服务管理平台贡献给开源社区"。',
         //   dateStr: 'March 06，2018',
@@ -42,26 +42,26 @@ export default {
       desc: 'Nacos is an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native application.',
       list: [
         {
-          img: '/img/weibo.png',
-          imgHover: '/img/weibo_hover.png',
+          img: '/images/weibo.png',
+          imgHover: '/images/weibo_hover.png',
           title: '@Nacos',
           link: 'https://weibo.com/u/6574374908',
         },
         {
-          img: '/img/alibaba.png',
-          imgHover: '/img/alibaba_hover.png',
+          img: '/images/alibaba.png',
+          imgHover: '/images/alibaba_hover.png',
           title: '#alibaba/Nacos',
           link: 'https://gitter.im/alibaba/nacos',
         },
         {
-          img: '/img/segmentfault.png',
-          imgHover: '/img/segmentfault_hover.png',
+          img: '/images/segmentfault.png',
+          imgHover: '/images/segmentfault_hover.png',
           title: 'Segment Fault',
           link: 'https://segmentfault.com/t/nacos',
         },
         {
-          img: '/img/mailinglist.png',
-          imgHover: '/img/mailinglist_hover.png',
+          img: '/images/mailinglist.png',
+          imgHover: '/images/mailinglist_hover.png',
           title: 'Mailing List',
           link: 'mailto:nacos_dev@linux.alibaba.com',
         },
@@ -72,22 +72,22 @@ export default {
       desc: 'Want to contribute to Nacos?',
       list: [
         {
-          img: '/img/mailinglist.png',
+          img: '/images/mailinglist.png',
           title: 'Mailing List',
           content: <span>Be sure to follow our <a href="mailto:nacos_dev@linux.alibaba.com">our community addition guidelines</a></span>,
         },
         {
-          img: '/img/issue.png',
+          img: '/images/issue.png',
           title: 'Issue',
           content: <span>Reporting issues via <a href="https://github.com/alibaba/nacos/issues">Github issues.</a></span>,
         },
         {
-          img: '/img/documents.png',
+          img: '/images/documents.png',
           title: 'Documents',
           content: <span>Improve the <a href="https://github.com/xuechaos/nacos.io/tree/master/docs">documentation.</a></span>,
         },
         {
-          img: '/img/pullrequest.png',
+          img: '/images/pullrequest.png',
           title: 'Pull Request',
           content: <span>Send your awesome enhancement via <a href="https://github.com/alibaba/nacos/pulls">Pull requests.</a></span>,
         },
@@ -174,7 +174,7 @@ export default {
                link: '/zh-cn/docs/aliyuncloud-service.html',
            },
            {
-               img: '/img/kunyu.JPG',
+               img: '/images/kunyu.JPG',
                title: 'Nacos - 阿里巴巴注册中心和配置中心开源计划',
                content: '阿里巴巴计划开启一个名叫Nacos的新开源项目,坤宇介绍了这个开源项目的初衷，他表示 “将通过Nacos项目将阿里巴巴在建设共享服务体系中使用的服务发现、配置及服务管理平台贡献给开源社区"。',
                dateStr: 'Last Update: 2016年01月28日',
@@ -194,26 +194,26 @@ export default {
       //    desc: '有问题需要反馈？请通过一下方式联系我们。',
       //    list: [
       //        {
-      //            img: '/img/mailinglist.png',
-      //            imgHover: '/img/mailinglist_hover.png',
+      //            img: '/images/mailinglist.png',
+      //            imgHover: '/images/mailinglist_hover.png',
       //            title: '企业总机：0755-33940020',
       //            link: 'mailto:nacos_dev@linux.alibaba.com'
       //        },
       //        {
-      //            img: '/img/mailinglist.png',
-      //            imgHover: '/img/mailinglist_hover.png',
+      //            img: '/images/mailinglist.png',
+      //            imgHover: '/images/mailinglist_hover.png',
       //            title: '电子信箱：service@bitmoe.com',
       //            link: 'https://gitter.im/alibaba/nacos',
       //        },
       //        {
-      //            img: '/img/segmentfault.png',
-      //            imgHover: '/img/segmentfault_hover.png',
+      //            img: '/images/segmentfault.png',
+      //            imgHover: '/images/segmentfault_hover.png',
       //            title: 'Segment Fault',
       //            link: 'https://segmentfault.com/t/nacos'
       //        },
       //        {
-      //            img: '/img/weibo.png',
-      //            imgHover: '/img/weibo_hover.png',
+      //            img: '/images/weibo.png',
+      //            imgHover: '/images/weibo_hover.png',
       //            title: '@Nacos',
       //            link: 'https://weibo.com/u/6574374908',
       //        },
@@ -224,22 +224,22 @@ export default {
           desc: '有问题需要反馈？您可以通过以下方式联系我们。',
           list: [
               {
-                  img: '/img/mailinglist.png',
+                  img: '/images/mailinglist.png',
                   title: '企业总机',
                   content: <span>拨打 <a href="telto:0755-33940020">0755-33940020 </a> 客服电话</span>,
               },
               {
-                  img: '/img/mailinglist.png',
+                  img: '/images/mailinglist.png',
                   title: '电子信箱',
                   content: <span>向 <a href="mailto:support@bitmoe.com">support@bitmoe.com </a>发邮件</span>,
               },
               {
-                  img: '/img/documents.png',
+                  img: '/images/documents.png',
                   title: '联系地址',
                   content: <span>南山电子商务创新服务基地<a href="http://nacos.io/zh-cn/docs/what-is-nacos.html"> G栋A603</a> </span>,
               },
               {
-                  img: '/img/pullrequest.png',
+                  img: '/images/pullrequest.png',
                   title: '更多方式',
                   content: <span><a href="1 "> 客服QQ </a> <a href="2 "> 客服旺旺 </a> <a href="3 "> 更多。。。 </a></span>,
               },
