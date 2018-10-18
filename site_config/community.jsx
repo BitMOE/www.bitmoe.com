@@ -171,7 +171,7 @@ export default {
                title: '比特萌公司云计算合作服务商',
                dateStr: 'Last Update: 2016年01月28日',
                content: '比特萌信息公司合作公司的产品推介，例如云计算产品，阿里云ECS，腾讯云COS，CDN服务，域名注册等等...，',
-               link: '/zh-cn/blog/alibaba-configserver.html',
+               link: '/zh-cn/docs/aliyuncloud-service.html',
            },
            {
                img: '/img/kunyu.JPG',
