@@ -1,24 +1,21 @@
 export default {
   'en-us': {
     brand: {
-      briefIntroduction: 'BITMOE INFO. Cloud Computing Service Provider',
+      briefIntroduction: 'BITMOE INFO. , Salute the first brand of Information Service',
       buttons: [
         {
-          text: 'About',
+          text: 'ABOUT',
           link: '/en-us/community/',
           type: 'primary',
         },
         {
-          text: 'Service',
+          text: 'SERVICE',
           link: '/en-us/docs/products-and-service.html',
           type: 'normal',
         },
       ],
-      version: {
-        text: '精工天下',
-      },
-      note: {
-        text: '信达未来',
+      subtitle: {
+        text: 'Cloud Computing Service Provider',
       },
       releaseDate: 'Began on 01 2016, 28 A.D.',
     },
@@ -26,7 +23,7 @@ export default {
       title: 'Corporate Culture',
       list: [
         {
-          img: '/images/dynamic_DNS.png',
+          img: '/images/xin.png',
           title: 'Xin · Up to the future',
           content: 'By supporting weighted routing, Dynamic DNS Service helps you implement mid-tier load balancing, more flexible routing, traffic control and DNS resolution services in the production environment within your data center. Dynamic DNS Service also makes it easier for you to implement DNS-based service discovery, which minimizes the risk of coupling to vendor-specific service discovery APIs.',
         },
@@ -76,7 +73,7 @@ export default {
   },
   'zh-cn': {
     brand: {
-      briefIntroduction: '比特萌 · 信息，云计算服务提供商',
+      briefIntroduction: '比特萌·信息，致敬信息服务第一品牌',
       buttons: [
         {
           text: '关于我们',
@@ -89,11 +86,8 @@ export default {
           type: 'normal',
         },
       ],
-      version: {
-        text: '精工天下',
-      },
-      note: {
-        text: '信达未来',
+      subtitle: {
+        text: '云计算服务提供商',
       },
       releaseDate: '始于公元2016年01月28日',
     },
@@ -101,7 +95,7 @@ export default {
       title: '企业文化',
       list: [
         {
-          img: '/images/dynamic_DNS.png',
+          img: '/images/xin.png',
           title: '信·达未来',
           content: '“信·达未来”为我司企业经营理念，“信”，在中文中既能表达“信用”，也表达“信息”，取信息/信用通达未来之意；表达我司对信用时代信息技术未来的展望。本理念凸显我司对外客户利益至上，对内保障员工权益的理念。',
         },
