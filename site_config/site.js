@@ -10,9 +10,9 @@ export default {
         link: '/en-us/index.html',
       },
       {
-        key: 'docs',
+        key: 'service',
         text: 'SERVICE',
-        link: '/en-us/docs/products-and-service.html',
+        link: '/en-us/service/products-and-service.html',
       },
       {
         key: 'blog',
@@ -20,9 +20,9 @@ export default {
         link: '/en-us/blog',
       },
       {
-        key: 'community',
+        key: 'about',
         text: 'ABOUT',
-        link: '/en-us/community',
+        link: '/en-us/about',
       },
       // {
       //   text: 'ALI-SUPPORT',
@@ -38,11 +38,11 @@ export default {
       list: [
         {
           text: '新浪微博',
-          link: '/zh-cn/docs/what-is-nacos.html',
+          link: '/zh-cn/service/what-is-nacos.html',
         },
         {
           text: '新浪微博',
-          link: '/zh-cn/docs/quick-start.html',
+          link: '/zh-cn/service/quick-start.html',
         },
         {
           text: '新浪微博',
@@ -111,9 +111,9 @@ export default {
         link: '/zh-cn/index.html',
       },
       {
-        key: 'docs',
+        key: 'service',
         text: '服务',
-        link: '/zh-cn/docs/products-and-service.html',
+        link: '/zh-cn/service/products-and-service.html',
       },
       {
         key: 'blog',
@@ -121,9 +121,9 @@ export default {
         link: '/zh-cn/blog/index.html',
       },
       {
-        key: 'community',
+        key: 'about',
         text: '关于',
-        link: '/zh-cn/community/index.html',
+        link: '/zh-cn/about/index.html',
       },
       // {
       //   text: '阿里开发者中心',
@@ -156,15 +156,15 @@ export default {
       list: [
         {
           text: '社会招聘',
-          link: '/zh-cn/docs/hr.html',
+          link: '/zh-cn/service/hr.html',
         },
         {
           text: '校园招聘',
-          link: '/zh-cn/docs/join.html',
+          link: '/zh-cn/service/join.html',
         },
         {
           text: '国际招聘',
-          link: '/zh-cn/docs/career.html',
+          link: '/zh-cn/service/career.html',
         },
       ],
     },
@@ -173,15 +173,15 @@ export default {
       list: [
         {
           text: '客户服务',
-          link: '/zh-cn/docs/service.html',
+          link: '/zh-cn/service/service.html',
         },
         {
           text: '合作洽谈',
-          link: '/zh-cn/docs/contactus.html',
+          link: '/zh-cn/service/contactus.html',
         },
         {
           text: '服务采购',
-          link: '/zh-cn/docs/spd.html',
+          link: '/zh-cn/service/spd.html',
         },
       ],
     },
@@ -190,15 +190,15 @@ export default {
       list: [
         {
           text: '服务协议',
-          link: '/zh-cn/docs/termsofservice.html',
+          link: '/zh-cn/service/termsofservice.html',
         },
         {
           text: '隐私政策',
-          link: '/zh-cn/docs/privacypolicy.html',
+          link: '/zh-cn/service/privacypolicy.html',
         },
         {
           text: '知识产权',
-          link: '/zh-cn/docs/intellectualproperty.html',
+          link: '/zh-cn/service/intellectualproperty.html',
         },
       ],
     },

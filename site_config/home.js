@@ -5,12 +5,12 @@ export default {
       buttons: [
         {
           text: 'ABOUT',
-          link: '/en-us/community/',
+          link: '/en-us/about/',
           type: 'primary',
         },
         {
           text: 'SERVICE',
-          link: '/en-us/docs/products-and-service.html',
+          link: '/en-us/service/products-and-service.html',
           type: 'normal',
         },
       ],
@@ -77,12 +77,12 @@ export default {
       buttons: [
         {
           text: '关于我们',
-          link: '/zh-cn/community/',
+          link: '/zh-cn/about/',
           type: 'primary',
         },
         {
           text: '服务项目',
-          link: '/zh-cn/docs/products-and-service.html',
+          link: '/zh-cn/service/products-and-service.html',
           type: 'normal',
         },
       ],

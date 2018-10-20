@@ -980,10 +980,10 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center; }
     .home-page .top-section .button-area .button:first-child {
       margin-right: 20px; }
-  .home-page .top-section .version-note {
+  .home-page .top-section .subtitle {
     text-align: center;
     margin: 22px 0 10px; }
-    .home-page .top-section .version-note a {
+    .home-page .top-section .subtitle a {
       text-decoration: none;
       display: inline-block;
       font-family: Avenir-Heavy;
