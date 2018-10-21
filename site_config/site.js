@@ -7,22 +7,22 @@ export default {
       {
         key: 'home', // 用作顶部菜单的选中
         text: 'HOME',
-        link: '/en-us/index.html',
+        link: '/en-us/',
       },
       {
         key: 'service',
         text: 'SERVICE',
-        link: '/en-us/service/products-and-service.html',
+        link: '/zh-cn/service/products-and-service.html',
       },
       {
         key: 'blog',
         text: 'BLOG',
-        link: '/en-us/blog',
+        link: '/zh-cn/blog/',
       },
       {
         key: 'about',
         text: 'ABOUT',
-        link: '/en-us/about',
+        link: '/zh-cn/about/',
       },
       // {
       //   text: 'ALI-SUPPORT',
@@ -31,7 +31,7 @@ export default {
     ],
     disclaimer: {
       title: 'Culture and Vision',
-      content: 'By providing an easy-to-use service infrastructure such as dynamic service discovery, service configuration, service sharing and management and etc., Nacos help users better construct, deliver and manage their own service platform, reuse and composite business service faster and deliver value of business innovation more quickly so as to win market for users in the era of cloud native and in all cloud environments, such as private, mixed, or public clouds.',
+      content: 'The BITMOE Information Team started construction at the end of 2015. The “bit” in the enterprise font size “BitMOE” is taken from the basic unit of measurement of the computer “bit”, which means “information” technology, and the other is the “Book of Rites·Monthly” sentence. After the completion of the "MOE" in the "MOE", the words "MOE" are combined to form a new word; reflecting our confidence and vision for the future development of information technology. Our company is committed to the future with information/credit. The business philosophy of the company helps the market players in the world strengthen their information functions and win the future information war',
     },
     footerattention: {
       title: '关注我们',
@@ -108,7 +108,7 @@ export default {
       {
         key: 'home',
         text: '首页',
-        link: '/zh-cn/index.html',
+        link: '/zh-cn/',
       },
       {
         key: 'service',
@@ -118,17 +118,13 @@ export default {
       {
         key: 'blog',
         text: '博客',
-        link: '/zh-cn/blog/index.html',
+        link: '/zh-cn/blog/',
       },
       {
         key: 'about',
         text: '关于',
-        link: '/zh-cn/about/index.html',
+        link: '/zh-cn/about/',
       },
-      // {
-      //   text: '阿里开发者中心',
-      //   href: 'https://developer.aliyun.com/opensource/project/nacos',
-      // },
     ],
     disclaimer: {
       title: '文化及愿景',

@@ -1,7 +1,7 @@
 export default {
   'en-us': {
     brand: {
-      briefIntroduction: 'BITMOE INFO. , Salute the first brand of Information Service',
+      briefIntroduction: 'BITMOE·INFO. , Salute the first brand of Information Service',
       buttons: [
         {
           text: 'ABOUT',
@@ -25,7 +25,7 @@ export default {
         {
           img: '/images/xin.png',
           title: 'Xin · Up to the future',
-          content: 'By supporting weighted routing, Dynamic DNS Service helps you implement mid-tier load balancing, more flexible routing, traffic control and DNS resolution services in the production environment within your data center. Dynamic DNS Service also makes it easier for you to implement DNS-based service discovery, which minimizes the risk of coupling to vendor-specific service discovery APIs.',
+          content: '"Sinda Future" is our company\'s business philosophy, "letter", in Chinese can not only express "credit", but also "information", take information / credit to the future meaning; express our company\'s information technology in the credit era Future prospects. This concept highlights the concept of our company\'s external customer interests and the protection of employees\' rights.',
         },
       ],
     },
@@ -34,38 +34,38 @@ export default {
       list: [
         {
           img: '/images/feature_easy_to_use.png',
-          title: 'Easy to use',
+          title: 'Computer software and hardware development, enterprise OEM customization services',
           content: [
-            'One-stop solution for dynamic service discovery, configuration management and dynamic DNS service',
-            '20+ out-of-the-box features for service-centric architectures',
-            'Light-weight production-ready console',
+            'Raspberry Pi, Orange Pi, x86 and other hardware design customization',
+            'Embedded operating system development, remote management software, enterprise instant messaging, enterprise e-commerce product development',
+            'Self-produced hardware and software products provide OEM customized services, etc.',
           ],
         },
         {
           img: '/images/feature_adaptable.png',
-          title: 'More adaptive to cloud architectures',
+          title: 'Cloud computing service application and maintenance',
           content: [
-            'Seamlessly support kubernetes and spring cloud',
-            'Easier to deploy and run on popular public cloud (for example AliCloud and AWS)',
-            'Support multi-tenants and multi-environments',
+            'Traditional physical computer, Alibaba Cloud, Tencent Cloud and other cloud host operating systems and application system maintenance',
+            'Consulting and maintenance of cloud service projects such as SSL, CDN, DNS, load balancing, blockchain, and live video',
+            'Construction consulting and deployment implementation of private cloud service solutions for enterprises and institutions',
           ],
         },
         {
           img: '/images/feature_production_grade.png',
-          title: 'Production grade',
+          title: 'Cloud computing service development and implementation',
           content: [
-            'Originated from time-tested internal products from Alibaba Group',
-            'Supports large-scale scenarios with millions of services',
-            'Open-source product with enterprise-level SLA',
+            'Enterprise official website, project official website, e-commerce, current service architecture fine-tuning and revision',
+            'Computer software development, public number, WeChat applet, Alipay applet',
+            'Recommend suitable cloud service solutions for you, such as network, host, development environment, etc.',
           ],
         },
         {
           img: '/images/feature_rich.png',
-          title: 'Rich internet application scenarios affinity',
+          title: 'Will we still be jealous? Your needs, our mission!!!',
           content: [
-            'Supports rate throttling, big promotion plans, and multi-region active-active architectures',
-            'Supports a variety of relevant internet-based use cases directly or with slight extension',
-            'Traffic scheduling & service governance',
+            'Your needs, our mission!!! [Important to come three times, o (∩ _ ∩) o ]',
+            'Your needs, our mission!!!',
+            'Your needs, our mission!!!',
           ],
         },
       ],
@@ -99,16 +99,6 @@ export default {
           title: '信·达未来',
           content: '“信·达未来”为我司企业经营理念，“信”，在中文中既能表达“信用”，也表达“信息”，取信息/信用通达未来之意；表达我司对信用时代信息技术未来的展望。本理念凸显我司对外客户利益至上，对内保障员工权益的理念。',
         },
-        /*{
-          img: '/images/dynamic_configuration.png',
-          title: '对外关系，客户至上，信息通达未来',
-          content: '动态服务发现对以服务为中心的（例如微服务和云原生）应用架构方式非常关键。Nacos支持DNS-Based和RPC-Based（Dubbo、gRPC）模式的服务发现。Nacos也提供实时健康检查，以防止将请求发往不健康的主机或服务实例。借助Nacos，您可以更容易地为您的服务实现断路器。',
-        },
-        {
-          img: '/images/service_discovery.png',
-          title: '对内关系，员工为王，信用通达未来',
-          content: '通过支持权重路由，动态DNS服务能让您轻松实现中间层负载均衡、更灵活的路由策略、流量控制以及简单数据中心内网的简单DNS解析服务。动态DNS服务还能让您更容易地实现以DNS协议为基础的服务发现，以消除耦合到厂商私有服务发现API上的风险。',
-        },*/
       ],
     },
     features: {
