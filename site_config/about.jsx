@@ -154,7 +154,7 @@ export default {
       title: '事件 & 新闻',
       list: [
           {
-              img: '/images/BitMOENewlogo.png',
+              img: '/images/BitMOENewlogofp.png',
               title: '比特萌公司开票信息及收款账户',
               dateStr: 'Last Update: 2016年01月28日',
               content: '因我公司为小规模纳税人，如需向我方开具发票，请开具 增值税普通发票，名称：深圳比特萌信息技术有限公司 纳税人识别号：914403003599427315 地址：深圳市南山区蛇口街道公园南路蛇口联合工业村G栋A603南山电子商务创新服务基地...',
