@@ -59,7 +59,7 @@ class Footer extends React.Component {
               </dl>
             </div>
           </div>
-          <div className="copyright"><span>{dataSource.copyright}</span></div>
+          <div className="footerinfo"><div className="copyright">{dataSource.copyright}</div><div><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499" target="_blank" rel="nofollow">粤公网安备44030502000499号</a> <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备16092592号</a></div> <div className="qualification"><a href="https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca" target="_blank" rel="nofollow"><img src="/images/aic.png" title="深圳市市场监督管理局企业主体身份公示" alt="深圳市市场监督管理局企业主体身份公示"></img></a></div></div>
         </div>
       </footer>
     );
