@@ -34,15 +34,15 @@ export default {
       content: 'The BITMOE Information Team started construction at the end of 2015. The “bit” in the enterprise font size “BitMOE” is taken from the basic unit of measurement of the computer “bit”, which means “information” technology, and the other is the “Book of Rites·Monthly” sentence. After the completion of the "MOE" in the "MOE", the words "MOE" are combined to form a new word; reflecting our confidence and vision for the future development of information technology. Our company is committed to the future with information/credit. The business philosophy of the company helps the market players in the world strengthen their information functions and win the future information war',
     },
     footerattention: {
-      title: '关注我们',
+      title: 'Follow us',
       list: [
         {
-          text: '新浪微博',
-          link: '/zh-cn/service/what-is-nacos.html',
+          text: 'DingDing',
+          link: '/go/dd',
         },
         {
-          text: '新浪微博',
-          link: '/zh-cn/service/quick-start.html',
+          text: 'Taobao',
+          link: '/go/tb',
         },
         {
           text: '新浪微博',
@@ -51,53 +51,53 @@ export default {
       ],
     },
     footerjoinus: {
-      title: '加入我们',
+      title: 'Join us',
       list: [
         {
-          text: '社会招聘',
-          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+          text: 'Social recruitment',
+          link: '/zh-cn/service/hr.html',
         },
         {
-          text: '校园招聘',
-          link: 'http://www.miitbeian.gov.cn',
+          text: 'Campus Recruiting',
+          link: '/zh-cn/service/join.html',
         },
         {
-          text: '国际招聘',
-          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+          text: 'International recruitment',
+          link: '/zh-cn/service/career.html',
         },
       ],
     },
     footercontact: {
-      title: '联系我们',
+      title: 'Contact us',
       list: [
         {
-          text: '客户服务',
-          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+          text: 'Customer Service',
+          link: '/zh-cn/service/service.html',
         },
         {
-          text: '合作洽谈',
-          link: 'http://www.miitbeian.gov.cn',
+          text: 'Cooperation meeting',
+          link: '/zh-cn/service/contactus.html',
         },
         {
-          text: '服务采购',
-          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+          text: 'Service procurement',
+          link: '/zh-cn/service/spd.html',
         },
       ],
     },
     footerlegal: {
-      title: '法律信息',
+      title: 'Legal info.',
       list: [
         {
-          text: '服务协议',
-          link: 'https://szcert.ebs.org.cn/b7cf3361-9046-4778-864a-3bd10b6f59ca',
+          text: 'Service agreement',
+          link: '/zh-cn/service/termsofservice.html',
         },
         {
-          text: '隐私政策',
-          link: 'http://www.miitbeian.gov.cn',
+          text: 'Privacy Policy',
+          link: '/zh-cn/service/privacypolicy.html',
         },
         {
-          text: '知识产权',
-          link: 'https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000499',
+          text: 'Intellectual property',
+          link: '/zh-cn/service/intellectualproperty.html',
         },
       ],
     },
@@ -134,12 +134,12 @@ export default {
       title: '关注我们',
       list: [
         {
-          text: '新浪微博',
-          link: 'https://weibo.com/BitMOE',
+          text: '钉钉主页',
+          link: '/go/dd',
         },
         {
-          text: '腾讯微博',
-          link: 'https://t.qq.com/BitMOE',
+          text: '淘宝店铺',
+          link: '/go/tb',
         },
         {
           text: '推特信息',

@@ -2,39 +2,32 @@ import React from 'react';
 
 export default {
   'en-us': {
-    barText: 'Community',
+    barText: 'About Me',
     events: {
       title: 'Events & News',
       list: [
 
           {
-              img: 'https://cdn.nlark.com/lark/0/2018/png/11189/1537795153259-cc2c60c2-d7cb-431a-8858-cbd71b1c89e9.png',
-              title: 'Nacos 计划发布v0.2版本，进一步融合Dubbo和SpringCloud生态',
-              content: '在近期的Aliware Open Source 成都站的活动上，阿里巴巴高级工程师邢学超（于怀）分享了Nacos v0.2的规划和进度，并对Nacos v0.3的控制台进行了预览。Nacos v0.2将进一步融入Duboo和Spring Cloud生态，帮助开发者更好的在微服务场景下使用服务发现和动态配置管理。',
-              dateStr: 'Sept 06，2018',
-              link: '/en-us/blog/cengdu-dubbo.html',
+              img: '/images/BitMOENewlogo.png',
+              title: '比特萌公司开票信息及收款账户',
+              dateStr: 'Last Update: 2016年01月28日',
+              content: '因我公司为小规模纳税人，如需向我方开具发票，请开具 增值税普通发票，名称：深圳比特萌信息技术有限公司 纳税人识别号：914403003599427315 地址：深圳市南山区蛇口街道公园南路蛇口联合工业村G栋A603南山电子商务创新服务基地...',
+              link: '/zh-cn/blog/invoiceinfo-bankaccount.html',
           },
           {
-              img: 'https://cdn.yuque.com/lark/0/2018/png/15914/1530083408486-b4698533-8e69-4e0a-9f3a-fdb1cdfbd290.png',
-              title: 'Consul与kubernetes整合公告[翻译]',
-              dateStr: 'Sept 2nd, 2018',
-              content: '本文翻译了Consul对于Kubernetes的整合所发布的公告文章（[原文地址](https://www.hashicorp.com/blog/consul-plus-kubernetes)）。Consul通过支持Service Mesh，并提供对Kubernetes的无缝支持，与目前最受社区热捧的产品进行绑定，并通过功能预告的形式，来达到对产品宣传效果的最大化。',
-              link: '/en-us/blog/consul-k8s.html',
+              img: '/images/BitMOENewLogoWall.png',
+              title: 'BitMOE 比特萌 品牌释义',
+              dateStr: 'Date: 2016年01月28日',
+              content: '比特萌信息团队于2015年末开始筹建，企业字号“比特萌”中的“比特”取自计算机基本计量单位“比特”，寓意“信息”技术，另取《礼记·月令》“句者毕出,萌者尽达”中的“萌”字（萌芽之意），合并组成一个新词语；体现我司对于信息技术发展未来的信心及愿...',
+              link: '/zh-cn/blog/bitmoe-logo-interpretation.html',
           },
-        // {
-        //   img: '/images/kunyu.JPG',
-        //   title: 'Nacos - 阿里巴巴注册中心和配置中心开源计划',
-        //   content: '阿里巴巴计划开启一个名叫Nacos的新开源项目,坤宇介绍了这个开源项目的初衷，他表示 “将通过Nacos项目将阿里巴巴在建设共享服务体系中使用的服务发现、配置及服务管理平台贡献给开源社区"。',
-        //   dateStr: 'March 06，2018',
-        //   link: '/en-us/blog/Nacos-is-Coming.html',
-        // },
-          {
-              img: 'https://cdn.yuque.com/lark/0/2018/png/7601/1525185700084-16f2c073-0c2b-49c0-b85b-ce2ca1163326.png',
-              title: '微服务架构中基于DNS的服务注册与发现',
-              content: '当前，微服务架构已经成为企业尤其是互联网企业技术选型的一个重要参考。微服务架构中涉及到很多模块，本文将重点介绍微服务架构的服务注册与发现以及如何基于DNS做服务发现。',
-              dateStr: 'March 06，2018',
-              link: '/en-us/blog/DNS-SD.html',
-          },
+           {
+               img: '/images/BitMOENewlogoAliyun.png',
+               title: '比特萌公司云计算合作服务商',
+               dateStr: 'Last Update: 2016年01月28日',
+               content: '比特萌信息公司合作公司的产品推介，例如云计算产品，阿里云ECS，腾讯云COS，CDN服务，域名注册等等...，',
+               link: '/zh-cn/service/aliyuncloud-service.html',
+           },
       ]
     },
     contacts: {
@@ -68,78 +61,86 @@ export default {
       ],
     },
     contributorGuide: {
-      title: 'Contributor Guide',
-      desc: 'Want to contribute to Nacos?',
+      title: 'Contact us',
+      desc: 'Have questions and need feedback? You can contact us in the following ways.',
       list: [
         {
           img: '/images/mailinglist.png',
-          title: 'Mailing List',
-          content: <span>Be sure to follow our <a href="mailto:nacos_dev@linux.alibaba.com">our community addition guidelines</a></span>,
+          title: 'Contact number',
+          content: <span>Call <a href="tel:0755-33940020">0755-33940020</a> Service Number</span>,
         },
         {
           img: '/images/issue.png',
-          title: 'Issue',
-          content: <span>Reporting issues via <a href="https://github.com/alibaba/nacos/issues">Github issues.</a></span>,
+          title: 'E-mail',
+          content: <span>Email <a href="mailto:support@bitmoe.com">support@bitmoe.com</a></span>,
         },
         {
           img: '/images/documents.png',
-          title: 'Documents',
-          content: <span>Improve the <a href="https://github.com/xuechaos/nacos.io/tree/master/docs">documentation.</a></span>,
+          title: 'Contact address',
+          content: <span>Nanshan E-commerce Innovation Service Base G Building <a href="/">A603</a></span>,
         },
         {
           img: '/images/pullrequest.png',
-          title: 'Pull Request',
-          content: <span>Send your awesome enhancement via <a href="https://github.com/alibaba/nacos/pulls">Pull requests.</a></span>,
+          title: 'More ways',
+          content: <span><a href="/"> QQ </a> <a href="/"> aliww </a> <a href="/"> Want more...</a></span>,
         },
       ],
     },
     ecos: {
-      title: 'Open Source Ecology Corelated',
+      title: 'Company Chronicle',
       list: [
         {
-          title: 'Dubbo and Dubbo Mesh',
-          content: <span>Dubbo and Nacos are the classic combination from production practice of Aibaba's large-scale micro-service. Compared to traditional registry centers such as ZooKeeper and configuration center solutions, when building a microservice application platform by using cloud native and Service Mesh paradigm, with the use of Nacos in Dubbo, all the power of Dubbo in the large-scale microservice management, traffic management, service integration and sharing can be fully released.</span>,
+          title: 'BITMOE Information\'s total tax payment for 2017 is 20 times higher than the previous year.',
+          content: <span>In May 2018, the company completed the 2017 annual settlement and settlement work, and completed the budget for the total tax payment in the current year, which was 20 times higher than the previous year.</span>,
           tags: [
               {
-                  text: 'Dubbo',
-                  link: 'http://dubbo.io/',
+                  text: 'Date',
                   bgColor: '#7A63FC',
               },
               {
-                  text: 'Dubbo Mesh',
-                  link: 'http://dubbo.io/',
+                  text: 'May 30, 2018',
                   bgColor: '#00D0D9',
               },
           ]
         },
         {
-          title: 'Kubernetes and CNCF',
-          content: <span>Nacos supports service discovery and dynamic configuration management required by Kubernetes and CNCF. Nacos can replace completely and seamlessly Kubernetes’ primary DNS-based Service Discovery solutions. Nacos is featured with providing more service governance, which includes management of service domain, service health and life cycle management, traffic management and intelligent routing strategy management and etc. Nacos also enhances the management of ConfigMap, including version configuration and gated launch and etc.</span>,
+          title: 'BITMOE Information Company and government departments related business docking work is completed',
+          content: <span>In April 2016, the company completed the account opening work with the bank and completed the actual payment of the company's registered capital.</span>,
           tags: [
               {
-                  text: 'Kubernetes',
-                  link: 'https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/',
+                  text: 'Date',
                   bgColor: '#7A63FC',
               },
               {
-                  text: 'CNCF',
-                  link: 'https://www.cncf.io/',
+                  text: 'April 11, 2016',
                   bgColor: '#00D0D9',
               },
           ]
         },
         {
-          title: 'Spring Cloud',
-          content: <span>Nacos is fully compatible and seamlessly supports the relevant API and main related functions of Spring Cloud. You can use Nacos as a configuration service for Spring Cloud Config Server or a better alternative for product of service discovery such as Eureka/Consul/ZooKeeper and etc. Nacos brings many feature enhancements required by the production and micro-service governance in configuration management and service management.</span>,
+          title: 'BITMOE Information Company officially incorporated',
+          content: <span>In early 2016, in response to Premier Li's “Volkswagen Entrepreneurship and Innovation” slogan, the Bit Meng team decided to convert the team into a limited company to better assist information technology services.</span>,
           tags: [
               {
-                  text: 'Spring Cloud',
-                  link: 'http://projects.spring.io/spring-cloud/',
+                  text: 'Date',
                   bgColor: '#7A63FC',
               },
               {
-                  text: 'Microservice',
-                  link: 'http://microservices.io/',
+                  text: 'January 28, 2016',
+                  bgColor: '#00D0D9',
+              },
+          ],
+        },
+        {
+          title: 'BITMOE co-founder team completed the formation',
+          content: <span>At the end of 2015, 8 HEXO enthusiasts from all over the country adhered to the concept of “Cinda Future” and devoted themselves to the promotion team of information technology.</span>,
+          tags: [
+              {
+                  text: 'Date',
+                  bgColor: '#7A63FC',
+              },
+              {
+                  text: 'November 23, 2015',
                   bgColor: '#00D0D9',
               },
           ],
@@ -211,8 +212,8 @@ export default {
           list: [
               {
                   img: '/images/mailinglist.png',
-                  title: '企业总机',
-                  content: <span>拨打 <a href="telto:0755-33940020">0755-33940020 </a> 客服电话</span>,
+                  title: '联系电话',
+                  content: <span>拨打 <a href="tel:0755-33940020">0755-33940020 </a> 服务电话</span>,
               },
               {
                   img: '/images/mailinglist.png',
@@ -227,7 +228,7 @@ export default {
               {
                   img: '/images/pullrequest.png',
                   title: '更多方式',
-                  content: <span><a href="1 "> 客服QQ </a> <a href="2 "> 客服旺旺 </a> <a href="3 "> 更多。。。 </a></span>,
+                  content: <span><a href="/"> 客服QQ </a> <a href="/"> 客服旺旺 </a> <a href="/"> 更多。。。 </a></span>,
               },
           ],
       },
