@@ -45,8 +45,8 @@ export default {
           link: '/go/tb',
         },
         {
-          text: '新浪微博',
-          link: 'https://github.com/BitMOE',
+          text: 'Twitter',
+          link: '/go/tw',
         },
       ],
     },
@@ -143,7 +143,7 @@ export default {
         },
         {
           text: '推特信息',
-          link: 'https://twitter.com/BitMOE',
+          link: '/go/tw',
         },
       ],
     },
