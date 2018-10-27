@@ -156,11 +156,11 @@ export default {
         },
         {
           text: '校园招聘',
-          link: '/zh-cn/service/join.html',
+          link: '/zh-cn/service/hr.html',
         },
         {
           text: '国际招聘',
-          link: '/zh-cn/service/career.html',
+          link: '/zh-cn/service/hr.html',
         },
       ],
     },
