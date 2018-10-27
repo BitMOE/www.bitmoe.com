@@ -75,7 +75,7 @@ export default {
               },
               {
                 title: '腾讯云计算服务',
-                link: '/zh-cn/service/aliyuncloud-service.html',
+                link: '/zh-cn/service/qcloud-service.html',
               },
             ],
           },
