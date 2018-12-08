@@ -1,7 +1,10 @@
 {
   "filename": "raspberrypi.md",
   "__html": "<h1>Raspberry PI 微型计算机 <a href=\"/go/taobao\">立即购买</a></h1>\n<p>树莓派是仅有信用卡大小的一个小型电脑，您可以将树莓派连接电视或常见的计算机设备使用。\n树莓派能替代日常使用的计算机的绝大部分功能，包括文字处理、电子表格、媒体中心甚至是游戏。\n我们希望将树莓派推广给全世界的青少年电脑爱好者，用于培养计算机程序设计的兴趣和能力。</p>\n<img src=\"/images/rasp-pi/3d-box-mockup.png\" alt=\"树莓派盒子\">\n<img src=\"/images/rasp-pi/rasp-pi-3-b+-board.png\" alt=\"树莓派主板\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">序号</th>\n<th style=\"text-align:left\">产品类型</th>\n<th style=\"text-align:left\">描述</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">1</td>\n<td style=\"text-align:left\">中央处理器</td>\n<td style=\"text-align:left\">四核ARM Cortex-A53（ARMv8）64位@ 1.4GHz CPU</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">2</td>\n<td style=\"text-align:left\">显示卡设备</td>\n<td style=\"text-align:left\">博通集成 Videocore-IV GPU</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">3</td>\n<td style=\"text-align:left\">内存卡设备</td>\n<td style=\"text-align:left\">1GB LPDDR2 SDRAM</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">4</td>\n<td style=\"text-align:left\">有线网络卡</td>\n<td style=\"text-align:left\">千兆以太网（通过USB2.0通道，最大吞吐量 300Mbps）</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">5</td>\n<td style=\"text-align:left\">无线网络卡</td>\n<td style=\"text-align:left\">2.4GHz和5GHz 双频Wi-Fi，支持802.11b/g/n/ac</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">6</td>\n<td style=\"text-align:left\">蓝牙适配器</td>\n<td style=\"text-align:left\">蓝牙4.2&amp;低功耗蓝牙（BLE）</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">7</td>\n<td style=\"text-align:left\">主存储设备</td>\n<td style=\"text-align:left\">Micro-SD 接口</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">9</td>\n<td style=\"text-align:left\">尺寸及重量</td>\n<td style=\"text-align:left\">82mmx 56mmx 19.5mm，50克</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">8</td>\n<td style=\"text-align:left\">其他  接口</td>\n<td style=\"text-align:left\">HDMI，3.5mm模拟音视频，4x USB 2.0、CSI、DSI、40pin扩展</td>\n</tr>\n</tbody>\n</table>\n<h3>其他扩展设备：</h3>\n<p><a href=\"/go/taobao\">Raspberry Pi HiFi DAC 音频</a>\n<a href=\"/go/taobao\">Raspberry Pi 外壳</a>\n<a href=\"/go/taobao\">Raspberry Pi 电源适配器</a>\n<a href=\"/go/taobao\">RaspberryPi Camera V2 摄像头模块</a></p>\n",
-  "title": "Raspberry PI 微型计算机",
-  "keywords": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派",
-  "description": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派"
+  "link": "\\en-us\\service\\raspberrypi.html",
+  "meta": {
+    "title": "Raspberry PI 微型计算机",
+    "keywords": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派",
+    "description": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派"
+  }
 }

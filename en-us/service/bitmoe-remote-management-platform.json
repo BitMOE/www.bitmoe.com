@@ -1,7 +1,10 @@
 {
   "filename": "bitmoe-remote-management-platform.md",
   "__html": "<h1>比特萌计算机远程管理平台 <a href=\"/go/taobao\">立即购买</a></h1>\n<p>一款远程计算机远程管理平台软件</p>\n<img src=\"/images/BRC.png\" alt=\"比特萌计算机远程管理平台\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">序号</th>\n<th style=\"text-align:left\">功能列表</th>\n<th style=\"text-align:left\">描述</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">1</td>\n<td style=\"text-align:left\">文件管理</td>\n<td style=\"text-align:left\">文件、文件夹批量上传、删除、下载、创建、重命名</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">2</td>\n<td style=\"text-align:left\">屏幕监视</td>\n<td style=\"text-align:left\">支持远程计算机桌面检查</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">3</td>\n<td style=\"text-align:left\">远程终端</td>\n<td style=\"text-align:left\">Windows CMD Shell环境</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">4</td>\n<td style=\"text-align:left\">系统管理</td>\n<td style=\"text-align:left\">进程管理，窗口管理</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">5</td>\n<td style=\"text-align:left\">会话管理</td>\n<td style=\"text-align:left\">注销，重启，关闭计算机</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">6</td>\n<td style=\"text-align:left\">区域显示</td>\n<td style=\"text-align:left\">自动显示远程主机所在地理位置</td>\n</tr>\n</tbody>\n</table>\n<h3>其他功能：</h3>\n<p>您有其他特殊功能，我司可提供定制服务。</p>\n",
-  "title": "比特萌计算机远程管理平台",
-  "keywords": "比特萌, 比特萌计算机远程管理平台",
-  "description": "比特萌, 比特萌计算机远程管理平台"
+  "link": "\\en-us\\service\\bitmoe-remote-management-platform.html",
+  "meta": {
+    "title": "比特萌计算机远程管理平台",
+    "keywords": "比特萌, 比特萌计算机远程管理平台",
+    "description": "比特萌, 比特萌计算机远程管理平台"
+  }
 }

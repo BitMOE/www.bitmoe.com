@@ -1,7 +1,10 @@
 {
   "filename": "helloworld.md",
   "__html": "<h1>Welcome to BITMOE CMS article management system</h1>\n<p>Welcome to the BITMOE CMS article management system. Edit or delete it and start writing!</p>\n",
-  "title": "Welcome to the BITMOE CMS article management system",
-  "keywords": "比特萌, 品牌, BitMOE, 博文",
-  "description": "比特萌, 品牌, BitMOE, 博文"
+  "link": "\\en-us\\blog\\helloworld.html",
+  "meta": {
+    "title": "Welcome to the BITMOE CMS article management system",
+    "keywords": "比特萌, 品牌, BitMOE, 博文",
+    "description": "比特萌, 品牌, BitMOE, 博文"
+  }
 }

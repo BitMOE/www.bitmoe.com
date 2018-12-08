@@ -1,0 +1,177 @@
+{
+  "en-us": [
+    {
+      "filename": "aliyuncloud-service.md",
+      "link": "\\en-us\\service\\aliyuncloud-service.html",
+      "meta": {
+        "title": "阿里云 - 上云就上阿里云 | 比特萌信息· 云计算服务提供商",
+        "keywords": "比特萌, 阿里云, 云数据库, 云服务器, 云计算, 域名注册",
+        "description": "比特萌, 阿里云, 云数据库, 云服务器, 云计算, 域名注册"
+      }
+    },
+    {
+      "filename": "bitmoe-remote-management-platform.md",
+      "link": "\\en-us\\service\\bitmoe-remote-management-platform.html",
+      "meta": {
+        "title": "比特萌计算机远程管理平台",
+        "keywords": "比特萌, 比特萌计算机远程管理平台",
+        "description": "比特萌, 比特萌计算机远程管理平台"
+      }
+    },
+    {
+      "filename": "intellectualproperty.md",
+      "link": "\\en-us\\service\\intellectualproperty.html",
+      "meta": {
+        "title": "BitMOE 比特萌信息 - 知识产权",
+        "keywords": "比特萌, 知识产权",
+        "description": "BitMOE 比特萌信息 - 知识产权"
+      }
+    },
+    {
+      "filename": "privacypolicy.md",
+      "link": "\\en-us\\service\\privacypolicy.html",
+      "meta": {
+        "title": "BitMOE 比特萌信息 - 隐私政策",
+        "keywords": "比特萌, 隐私政策",
+        "description": "BitMOE 比特萌信息 - 隐私政策"
+      }
+    },
+    {
+      "filename": "products-and-service.md",
+      "link": "\\en-us\\service\\products-and-service.html",
+      "meta": {
+        "title": "欢迎登陆 比特萌信息公司 产品及服务信息页面",
+        "keywords": "比特萌, 云计算, 产品及服务, 信息",
+        "description": "比特萌, 云计算, 产品及服务, 信息"
+      }
+    },
+    {
+      "filename": "raspberrypi.md",
+      "link": "\\en-us\\service\\raspberrypi.html",
+      "meta": {
+        "title": "Raspberry PI 微型计算机",
+        "keywords": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派",
+        "description": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派"
+      }
+    },
+    {
+      "filename": "termsofservice.md",
+      "link": "\\en-us\\service\\termsofservice.html",
+      "meta": {
+        "title": "BitMOE 比特萌信息 - 服务条款",
+        "keywords": "比特萌, 服务条款",
+        "description": "BitMOE 比特萌信息 - 服务条款"
+      }
+    }
+  ],
+  "zh-cn": [
+    {
+      "filename": "aliyuncloud-service.md",
+      "link": "\\zh-cn\\service\\aliyuncloud-service.html",
+      "meta": {
+        "title": "阿里云 - 上云就上阿里云 | 比特萌信息· 云计算服务提供商",
+        "keywords": "比特萌, 阿里云, 云数据库, 云服务器, 云计算, 域名注册",
+        "description": "比特萌, 阿里云, 云数据库, 云服务器, 云计算, 域名注册"
+      }
+    },
+    {
+      "filename": "bitmoe-remote-management-platform.md",
+      "link": "\\zh-cn\\service\\bitmoe-remote-management-platform.html",
+      "meta": {
+        "title": "比特萌计算机远程管理平台",
+        "keywords": "比特萌, 比特萌计算机远程管理平台",
+        "description": "比特萌, 比特萌计算机远程管理平台"
+      }
+    },
+    {
+      "filename": "contactus.md",
+      "link": "\\zh-cn\\service\\contactus.html",
+      "meta": {
+        "title": "比特萌信息合作洽谈",
+        "keywords": "比特萌, 品牌, BitMOE, 合作洽谈",
+        "description": "比特萌信息合作洽谈"
+      }
+    },
+    {
+      "filename": "hr.md",
+      "link": "\\zh-cn\\service\\hr.html",
+      "meta": {
+        "title": "比特萌信息招聘信息",
+        "keywords": "比特萌, 品牌, BitMOE, 招聘信息",
+        "description": "比特萌信息招聘信息"
+      }
+    },
+    {
+      "filename": "intellectualproperty.md",
+      "link": "\\zh-cn\\service\\intellectualproperty.html",
+      "meta": {
+        "title": "BitMOE 比特萌信息 - 知识产权",
+        "keywords": "比特萌, 知识产权",
+        "description": "BitMOE 比特萌信息 - 知识产权"
+      }
+    },
+    {
+      "filename": "privacypolicy.md",
+      "link": "\\zh-cn\\service\\privacypolicy.html",
+      "meta": {
+        "title": "BitMOE 比特萌信息 - 隐私政策",
+        "keywords": "比特萌, 隐私政策",
+        "description": "BitMOE 比特萌信息 - 隐私政策"
+      }
+    },
+    {
+      "filename": "products-and-service.md",
+      "link": "\\zh-cn\\service\\products-and-service.html",
+      "meta": {
+        "title": "欢迎登陆 比特萌信息公司 产品及服务信息页面",
+        "keywords": "比特萌, 云计算, 产品及服务, 信息",
+        "description": "比特萌, 云计算, 产品及服务, 信息"
+      }
+    },
+    {
+      "filename": "qcloud-service.md",
+      "link": "\\zh-cn\\service\\qcloud-service.html",
+      "meta": {
+        "title": "腾讯云 我们专注于提供全球领先的专业云计算服务",
+        "keywords": "比特萌, 腾讯云, 云数据库, 云服务器, 云计算, 域名注册",
+        "description": "腾讯云 我们专注于提供全球领先的专业云计算服务"
+      }
+    },
+    {
+      "filename": "raspberrypi.md",
+      "link": "\\zh-cn\\service\\raspberrypi.html",
+      "meta": {
+        "title": "Raspberry PI 微型计算机",
+        "keywords": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派",
+        "description": "比特萌, 云计算, 微型计算机, 信用卡, Raspberry PI, 树莓派"
+      }
+    },
+    {
+      "filename": "service.md",
+      "link": "\\zh-cn\\service\\service.html",
+      "meta": {
+        "title": "比特萌信息客户服务",
+        "keywords": "比特萌, 品牌, BitMOE, 客户服务",
+        "description": "比特萌信息客户服务"
+      }
+    },
+    {
+      "filename": "spd.md",
+      "link": "\\zh-cn\\service\\spd.html",
+      "meta": {
+        "title": "比特萌信息服务采购",
+        "keywords": "比特萌, 品牌, BitMOE, 服务采购",
+        "description": "比特萌信息服务采购"
+      }
+    },
+    {
+      "filename": "termsofservice.md",
+      "link": "\\zh-cn\\service\\termsofservice.html",
+      "meta": {
+        "title": "BitMOE 比特萌信息 - 服务条款",
+        "keywords": "比特萌, 服务条款",
+        "description": "BitMOE 比特萌信息 - 服务条款"
+      }
+    }
+  ]
+}

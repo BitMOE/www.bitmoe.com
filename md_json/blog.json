@@ -1,0 +1,58 @@
+{
+  "en-us": [
+    {
+      "filename": "bitmoe-logo-interpretation.md",
+      "link": "\\en-us\\blog\\bitmoe-logo-interpretation.html",
+      "meta": {
+        "title": "比特萌信息公司品牌标识释义（BitMOE 比特萌）",
+        "keywords": "比特萌, 品牌, BitMOE, 释义",
+        "description": "比特萌信息公司品牌标识释义（BitMOE 比特萌）"
+      }
+    },
+    {
+      "filename": "helloworld.md",
+      "link": "\\en-us\\blog\\helloworld.html",
+      "meta": {
+        "title": "Welcome to the BITMOE CMS article management system",
+        "keywords": "比特萌, 品牌, BitMOE, 博文",
+        "description": "比特萌, 品牌, BitMOE, 博文"
+      }
+    },
+    {
+      "filename": "invoiceinfobankaccount.md",
+      "link": "\\en-us\\blog\\invoiceinfobankaccount.html",
+      "meta": {
+        "title": "比特萌公司开票信息及收款账户",
+        "keywords": "比特萌, 开票信息, 收款账户"
+      }
+    }
+  ],
+  "zh-cn": [
+    {
+      "filename": "bitmoe-logo-interpretation.md",
+      "link": "\\zh-cn\\blog\\bitmoe-logo-interpretation.html",
+      "meta": {
+        "title": "比特萌信息公司品牌标识释义（BitMOE 比特萌）",
+        "keywords": "比特萌, 品牌, BitMOE, 释义",
+        "description": "比特萌信息公司品牌标识释义（BitMOE 比特萌）"
+      }
+    },
+    {
+      "filename": "helloworld.md",
+      "link": "\\zh-cn\\blog\\helloworld.html",
+      "meta": {
+        "title": "欢迎使用 BITMOE CMS 文章管理系统",
+        "keywords": "比特萌, 品牌, BitMOE, 博文",
+        "description": "比特萌, 品牌, BitMOE, 博文"
+      }
+    },
+    {
+      "filename": "invoiceinfobankaccount.md",
+      "link": "\\zh-cn\\blog\\invoiceinfobankaccount.html",
+      "meta": {
+        "title": "比特萌公司开票信息及收款账户",
+        "keywords": "比特萌, 开票信息, 收款账户"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+pages:
+ # key is the dirname of pages in src/pages, not including documentation and blogList that is related to markdown file
+ home:
+  # 首页配置
+  zh-cn:
+   title: '欢迎访问深圳比特萌信息技术有限公司官方网站！'
+   keywords: '深圳比特萌信息技术有限公司,比特萌,信息技术,比特萌官方网站,信息化,信息产业,电子商务,企业形象策划,文化活动策划,企业建站,财务管理,软件开发,安卓开发,iOS开发,Bitmoe,bitmoe.com,Android,iOS'
+   description: '比特萌信息(BITMOE) 是一家致力于信息技术的研究及开发的新一代科技公司，主营电子商务技术研发、计算机系统维护、计算机/移动设备软件开发等；我公司(D-U-N-S Number: 544440168)成立于2016年01月，秉承“信达未来”的经营理念，“助力中小企业信息化”的经营目标，是国内领先的信息技术服务提供商之一。'
+  # home config
+  en-us:
+   title: 'Welcome to Shenzhen BitMOE Information Technology Co., Ltd. Official Website!'
+   keywords: '深圳比特萌信息技术有限公司,比特萌,信息技术,比特萌官方网站,信息化,信息产业,电子商务,企业形象策划,文化活动策划,企业建站,财务管理,软件开发,安卓开发,iOS开发,Bitmoe,bitmoe.com,Android,iOS'
+   description: '比特萌信息(BITMOE) 是一家致力于信息技术的研究及开发的新一代科技公司，主营电子商务技术研发、计算机系统维护、计算机/移动设备软件开发等；我公司(D-U-N-S Number: 544440168)成立于2016年01月，秉承“信达未来”的经营理念，“助力中小企业信息化”的经营目标，是国内领先的信息技术服务提供商之一。'
+ service:
+  # 社区页配置
+  zh-cn:
+   title: '比特萌信息技术文摘'
+   keywords: '博文,技术,文摘,比特萌,信息'
+   description: '比特萌信息技术文摘'
+  # service page config
+  en-us:
+   title: 'BitMOE Information Technology Digest'
+   keywords: 'blog, technology, abstracts, bit Meng, information'
+   description: 'BitMOE Information Technology Digest Pages'
+ blog:
+  # 博客列表页配置
+  zh-cn:
+   title: '技术文摘 | 比特萌信息'
+   keywords: '博文,技术,文摘,比特萌,信息'
+   description: '比特萌信息技术文摘'
+  en-us:
+   # blog list page config
+   title: 'Technology Digest | BitMOE Information'
+   keywords: 'blog, technology, abstracts, BitMOE, information'
+   description: 'BitMOE Information Technology Digest page'
+ about:
+  # 博客列表页配置
+  zh-cn:
+   title: '关于我们 | 比特萌信息'
+   keywords: '关于我们,技术,关于,比特萌,信息'
+   description: '比特萌信息关于我们页面'
+  en-us:
+   # blog list page config
+   title: 'About us | BitMOE Information'
+   keywords: 'About us, technology, about, BitMOE, information'
+   description: 'BitMOE Information Technology about our page'

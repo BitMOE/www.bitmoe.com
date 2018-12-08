@@ -1,7 +1,10 @@
 {
   "filename": "hr.md",
   "__html": "<h1>比特萌信息招聘信息</h1>\n<p>暂不招人</p>\n",
-  "title": "比特萌信息招聘信息",
-  "keywords": "比特萌, 品牌, BitMOE, 招聘信息",
-  "description": "比特萌信息招聘信息"
+  "link": "\\zh-cn\\service\\hr.html",
+  "meta": {
+    "title": "比特萌信息招聘信息",
+    "keywords": "比特萌, 品牌, BitMOE, 招聘信息",
+    "description": "比特萌信息招聘信息"
+  }
 }

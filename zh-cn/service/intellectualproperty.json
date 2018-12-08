@@ -1,7 +1,10 @@
 {
   "filename": "intellectualproperty.md",
   "__html": "<h1>BitMOE 比特萌信息 - 知识产权</h1>\n<p>最近修订日期：2018年10月25日</p>\n<h2>比特萌信息 商标权</h2>\n<p><img src=\"/images/ip/%E6%AF%94%E7%89%B9%E8%90%8C%E5%95%86%E6%A0%87.png\" alt=\"比特萌42类商标\"></p>\n",
-  "title": "BitMOE 比特萌信息 - 知识产权",
-  "keywords": "比特萌, 知识产权",
-  "description": "BitMOE 比特萌信息 - 知识产权"
+  "link": "\\zh-cn\\service\\intellectualproperty.html",
+  "meta": {
+    "title": "BitMOE 比特萌信息 - 知识产权",
+    "keywords": "比特萌, 知识产权",
+    "description": "BitMOE 比特萌信息 - 知识产权"
+  }
 }
