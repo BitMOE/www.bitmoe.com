@@ -90,6 +90,21 @@ export default {
       title: 'Company Chronicle',
       list: [
         {
+          title: 'BITMOE Information participates in the SAR blockchain electronic invoice pilot work.',
+          content: <span>Following the pace of the times, BitMOE Information participated in the pilot project of blockchain electronic invoices in the Shenzhen Special Economic Zone.</span>,
+          tags: [
+              {
+                  text: 'Date',
+                  link: '/zh-cn/blog/blockchain-electronicinvoice.html',
+                  bgColor: '#7A63FC',
+              },
+              {
+                  text: 'Dec 22, 2018',
+                  bgColor: '#00D0D9',
+              },
+          ]
+        },
+        {
           title: 'BITMOE Information\'s total tax payment for 2017 is 20 times higher than the previous year.',
           content: <span>In May 2018, the company completed the 2017 annual settlement and settlement work, and completed the budget for the total tax payment in the current year, which was 20 times higher than the previous year.</span>,
           tags: [
@@ -201,7 +216,7 @@ export default {
       //        {
       //            img: '/images/weibo.png',
       //            imgHover: '/images/weibo_hover.png',
-      //            title: '@Nacos',
+      //            title: '@',
       //            link: 'https://weibo.com/u/6574374908',
       //        },
       //    ],
@@ -235,6 +250,22 @@ export default {
     ecos: {
       title: '公司纪事',
       list: [
+        {
+          title: '比特萌信息参与特区区块链电子发票试点工作',
+          content: <span>紧跟时代步伐，比特萌信息参与深圳经济特区的区块链电子发票试点工作。</span>,
+          tags: [
+            {
+              text: '日期',
+              link: '/zh-cn/blog/blockchain-electronicinvoice.html',
+              bgColor: '#7A63FC',
+            },
+            {
+              text: '2018年12月22日',
+              link: '/',
+              bgColor: '#00D0D9',
+            },
+          ]
+        },
         {
           title: '比特萌信息2017年度纳税总额较上年增长20倍计划完成',
           content: <span>2018年05月，公司完成了2017年度汇算清缴工作，完成当年纳税总额较上年增长20倍的预算。</span>,
