@@ -103,7 +103,7 @@ export default {
         },
       ],
     },
-    copyright: 'Copyright © 2015-2018 Shenzhen BitMOE Information Technology Co., Ltd. All rights reserved.',
+    copyright: 'Copyright © 2015-2019 Shenzhen BitMOE Information Technology Co., Ltd. All rights reserved.',
   },
   'zh-cn': {
     pageMenu: [
@@ -200,6 +200,6 @@ export default {
         },
       ],
     },
-    copyright: '版权所有 © 2015-2018 深圳比特萌信息技术有限公司 保留所有权利',
+    copyright: '版权所有 © 2015-2019 深圳比特萌信息技术有限公司 保留所有权利',
   },
 };
