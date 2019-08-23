@@ -1,7 +1,7 @@
 export default {
   'en-us': {
     brand: {
-      briefIntroduction: 'BITMOE·INFO. , Salute the first brand of Information Service',
+      briefIntroduction: 'Salute the first brand of Information Service',
       buttons: [
         {
           text: 'ABOUT',
@@ -73,7 +73,7 @@ export default {
   },
   'zh-cn': {
     brand: {
-      briefIntroduction: '比特萌·信息，致敬信息服务第一品牌',
+      briefIntroduction: '致 敬 信 息 服 务 第 一 品 牌',
       buttons: [
         {
           text: '关于我们',
